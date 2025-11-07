@@ -1,0 +1,1501 @@
+ref,remark,category,predicted_category
+TXNP500000,Loan EMI debit,Food,Food
+TXNP500001,Electricity bill payment,Shopping,Shopping
+TXNP500002,Swiggy dinner,Travel,Travel
+TXNP500003,Amazon order,Business Expense,Business Expense
+TXNP500004,UPI to grocery,Refund,Refund
+TXNP500005,GST tax payment,Parking,Parking
+TXNP500006,Prime Video subscription,Salary,Salary
+TXNP500007,Parking fee,Fuel,Fuel
+TXNP500008,UPI to grocery,Travel,Travel
+TXNP500009,Insurance premium debit,Service Expense,Service Expense
+TXNP500010,Amazon order,Utility,Utility
+TXNP500011,Consulting fee,Tax,Tax
+TXNP500012,Wallet top-up,Refund,Refund
+TXNP500013,Fuel refill HP petrol,Food,Food
+TXNP500014,Prime Video subscription,Grocery,Grocery
+TXNP500015,Netflix subscription,Service Expense,Service Expense
+TXNP500016,Salary credited,Utility,Utility
+TXNP500017,Insurance premium debit,EMI,EMI
+TXNP500018,Gym membership,Shopping,Shopping
+TXNP500019,Insurance premium debit,Service Expense,Service Expense
+TXNP500020,Parking fee,Insurance,Insurance
+TXNP500021,Restaurant dinner,Tax,Tax
+TXNP500022,Internet broadband bill,Shopping,Shopping
+TXNP500023,Flight booking MakeMyTrip,Recharge,Recharge
+TXNP500024,Vendor payment,Wallet,Wallet
+TXNP500025,Salary credited,Business Expense,Business Expense
+TXNP500026,Gym membership,Subscription,Subscription
+TXNP500027,Zomato lunch,Salary,Salary
+TXNP500028,Swiggy dinner,Insurance,Insurance
+TXNP500029,Gym membership,Salary,Salary
+TXNP500030,Gym membership,Refund,Refund
+TXNP500031,UPI to grocery,Shopping,Shopping
+TXNP500032,Electricity bill payment,Shopping,Shopping
+TXNP500033,Fuel refill HP petrol,EMI,EMI
+TXNP500034,Vendor payment,Recharge,Recharge
+TXNP500035,Loan EMI debit,EMI,EMI
+TXNP500036,Wallet top-up,Travel,Travel
+TXNP500037,Electricity bill payment,Food,Food
+TXNP500038,Restaurant dinner,Salary,Salary
+TXNP500039,GST tax payment,Tax,Tax
+TXNP500040,UPI to grocery,Shopping,Shopping
+TXNP500041,Wallet top-up,Food,Food
+TXNP500042,Netflix subscription,Insurance,Insurance
+TXNP500043,Fuel refill HP petrol,EMI,EMI
+TXNP500044,Parking fee,Salary,Salary
+TXNP500045,Vendor payment,EMI,EMI
+TXNP500046,Swiggy dinner,Subscription,Subscription
+TXNP500047,Restaurant dinner,Recharge,Recharge
+TXNP500048,Prime Video subscription,Insurance,Insurance
+TXNP500049,Salary credited,Recharge,Recharge
+TXNP500050,Mobile recharge,Utility,Utility
+TXNP500051,Wallet top-up,Food,Food
+TXNP500052,Consulting fee,Travel,Travel
+TXNP500053,Flight booking MakeMyTrip,Grocery,Grocery
+TXNP500054,Amazon order,Shopping,Shopping
+TXNP500055,Insurance premium debit,Shopping,Shopping
+TXNP500056,GST tax payment,Food,Food
+TXNP500057,Internet broadband bill,Parking,Parking
+TXNP500058,Parking fee,Salary,Salary
+TXNP500059,Electricity bill payment,Fuel,Fuel
+TXNP500060,Internet broadband bill,Utility,Utility
+TXNP500061,GST tax payment,Parking,Parking
+TXNP500062,Electricity bill payment,Grocery,Grocery
+TXNP500063,Amazon order,Food,Food
+TXNP500064,Electricity bill payment,Travel,Travel
+TXNP500065,Restaurant dinner,Travel,Travel
+TXNP500066,Electricity bill payment,Food,Food
+TXNP500067,Restaurant dinner,EMI,EMI
+TXNP500068,Insurance premium debit,Food,Food
+TXNP500069,Internet broadband bill,Shopping,Shopping
+TXNP500070,Prime Video subscription,Utility,Utility
+TXNP500071,Salary credited,Fuel,Fuel
+TXNP500072,Restaurant dinner,Shopping,Shopping
+TXNP500073,Salary credited,Shopping,Shopping
+TXNP500074,Fuel refill HP petrol,Insurance,Insurance
+TXNP500075,Prime Video subscription,Parking,Parking
+TXNP500076,Flight booking MakeMyTrip,Wallet,Wallet
+TXNP500077,GST tax payment,Salary,Salary
+TXNP500078,Electricity bill payment,Salary,Salary
+TXNP500079,Refund from Amazon,Subscription,Subscription
+TXNP500080,Mobile recharge,Shopping,Shopping
+TXNP500081,Gym membership,Grocery,Grocery
+TXNP500082,Prime Video subscription,Wallet,Wallet
+TXNP500083,Fuel refill HP petrol,Recharge,Recharge
+TXNP500084,Loan EMI debit,Recharge,Recharge
+TXNP500085,Mobile recharge,Shopping,Shopping
+TXNP500086,UPI to grocery,Salary,Salary
+TXNP500087,Zomato lunch,Parking,Parking
+TXNP500088,Parking fee,Shopping,Shopping
+TXNP500089,Mobile recharge,Insurance,Insurance
+TXNP500090,Restaurant dinner,Travel,Travel
+TXNP500091,Wallet top-up,Recharge,Recharge
+TXNP500092,Loan EMI debit,EMI,EMI
+TXNP500093,Internet broadband bill,Shopping,Shopping
+TXNP500094,Insurance premium debit,Wallet,Wallet
+TXNP500095,Swiggy dinner,Service Expense,Service Expense
+TXNP500096,Refund from Amazon,Subscription,Subscription
+TXNP500097,Fuel refill HP petrol,Grocery,Grocery
+TXNP500098,Wallet top-up,Utility,Utility
+TXNP500099,Fuel refill HP petrol,Subscription,Subscription
+TXNP500100,Restaurant dinner,Travel,Travel
+TXNP500101,Mobile recharge,Service Expense,Service Expense
+TXNP500102,Wallet top-up,Utility,Utility
+TXNP500103,Parking fee,Wallet,Wallet
+TXNP500104,GST tax payment,Travel,Travel
+TXNP500105,Wallet top-up,Insurance,Insurance
+TXNP500106,Electricity bill payment,Food,Food
+TXNP500107,Office stationery,Salary,Salary
+TXNP500108,Flight booking MakeMyTrip,Wallet,Wallet
+TXNP500109,Internet broadband bill,Shopping,Shopping
+TXNP500110,Flight booking MakeMyTrip,Food,Food
+TXNP500111,Flight booking MakeMyTrip,Subscription,Subscription
+TXNP500112,Prime Video subscription,Food,Food
+TXNP500113,Vendor payment,Business Expense,Business Expense
+TXNP500114,GST tax payment,Utility,Utility
+TXNP500115,Prime Video subscription,Insurance,Insurance
+TXNP500116,Gym membership,Parking,Parking
+TXNP500117,Restaurant dinner,Grocery,Grocery
+TXNP500118,UPI to grocery,Salary,Salary
+TXNP500119,Internet broadband bill,Food,Food
+TXNP500120,Zomato lunch,Grocery,Grocery
+TXNP500121,Loan EMI debit,Travel,Travel
+TXNP500122,Consulting fee,Subscription,Subscription
+TXNP500123,Internet broadband bill,Food,Food
+TXNP500124,Fuel refill HP petrol,Shopping,Shopping
+TXNP500125,Parking fee,Food,Food
+TXNP500126,Swiggy dinner,Travel,Travel
+TXNP500127,Flight booking MakeMyTrip,Salary,Salary
+TXNP500128,Prime Video subscription,Wallet,Wallet
+TXNP500129,Gym membership,Recharge,Recharge
+TXNP500130,Mobile recharge,Recharge,Recharge
+TXNP500131,Fuel refill HP petrol,Shopping,Shopping
+TXNP500132,Insurance premium debit,Travel,Travel
+TXNP500133,Parking fee,Grocery,Grocery
+TXNP500134,Vendor payment,Utility,Utility
+TXNP500135,Consulting fee,Service Expense,Service Expense
+TXNP500136,Wallet top-up,Travel,Travel
+TXNP500137,Electricity bill payment,Salary,Salary
+TXNP500138,Vendor payment,Shopping,Shopping
+TXNP500139,Fuel refill HP petrol,Utility,Utility
+TXNP500140,Wallet top-up,Shopping,Shopping
+TXNP500141,Fuel refill HP petrol,Shopping,Shopping
+TXNP500142,GST tax payment,Salary,Salary
+TXNP500143,Wallet top-up,Food,Food
+TXNP500144,UPI to grocery,Travel,Travel
+TXNP500145,Amazon order,Wallet,Wallet
+TXNP500146,Vendor payment,Insurance,Insurance
+TXNP500147,Gym membership,Salary,Salary
+TXNP500148,Prime Video subscription,Subscription,Subscription
+TXNP500149,Restaurant dinner,Business Expense,Business Expense
+TXNP500150,Office stationery,Tax,Tax
+TXNP500151,Loan EMI debit,Business Expense,Business Expense
+TXNP500152,GST tax payment,Subscription,Subscription
+TXNP500153,Internet broadband bill,Refund,Refund
+TXNP500154,Insurance premium debit,Utility,Utility
+TXNP500155,Flight booking MakeMyTrip,Recharge,Recharge
+TXNP500156,Internet broadband bill,Travel,Travel
+TXNP500157,Zomato lunch,Travel,Travel
+TXNP500158,Gym membership,Fuel,Fuel
+TXNP500159,Internet broadband bill,Salary,Salary
+TXNP500160,UPI to grocery,EMI,EMI
+TXNP500161,Insurance premium debit,Subscription,Subscription
+TXNP500162,Parking fee,Wallet,Wallet
+TXNP500163,Amazon order,Refund,Refund
+TXNP500164,Prime Video subscription,Shopping,Shopping
+TXNP500165,Flight booking MakeMyTrip,EMI,EMI
+TXNP500166,Salary credited,Subscription,Subscription
+TXNP500167,Restaurant dinner,Insurance,Insurance
+TXNP500168,Swiggy dinner,Tax,Tax
+TXNP500169,Office stationery,Food,Food
+TXNP500170,Insurance premium debit,Recharge,Recharge
+TXNP500171,Insurance premium debit,Shopping,Shopping
+TXNP500172,Prime Video subscription,Travel,Travel
+TXNP500173,Amazon order,Food,Food
+TXNP500174,Restaurant dinner,Food,Food
+TXNP500175,Flight booking MakeMyTrip,Recharge,Recharge
+TXNP500176,Mobile recharge,Subscription,Subscription
+TXNP500177,Restaurant dinner,Salary,Salary
+TXNP500178,GST tax payment,Business Expense,Business Expense
+TXNP500179,Consulting fee,Shopping,Shopping
+TXNP500180,Restaurant dinner,Food,Food
+TXNP500181,Salary credited,Salary,Salary
+TXNP500182,GST tax payment,Shopping,Shopping
+TXNP500183,Netflix subscription,Fuel,Fuel
+TXNP500184,GST tax payment,Salary,Salary
+TXNP500185,Internet broadband bill,Fuel,Fuel
+TXNP500186,Internet broadband bill,Subscription,Subscription
+TXNP500187,Parking fee,Grocery,Grocery
+TXNP500188,Swiggy dinner,Travel,Travel
+TXNP500189,Zomato lunch,Food,Food
+TXNP500190,Office stationery,Insurance,Insurance
+TXNP500191,Refund from Amazon,Shopping,Shopping
+TXNP500192,Wallet top-up,Utility,Utility
+TXNP500193,Flight booking MakeMyTrip,Utility,Utility
+TXNP500194,Netflix subscription,Salary,Salary
+TXNP500195,Insurance premium debit,Utility,Utility
+TXNP500196,Office stationery,Insurance,Insurance
+TXNP500197,Gym membership,Service Expense,Service Expense
+TXNP500198,Zomato lunch,Business Expense,Business Expense
+TXNP500199,Mobile recharge,Insurance,Insurance
+TXNP500200,UPI to grocery,Grocery,Grocery
+TXNP500201,Refund from Amazon,Shopping,Shopping
+TXNP500202,Vendor payment,EMI,EMI
+TXNP500203,Amazon order,Shopping,Shopping
+TXNP500204,Swiggy dinner,Fuel,Fuel
+TXNP500205,Swiggy dinner,Refund,Refund
+TXNP500206,Wallet top-up,EMI,EMI
+TXNP500207,Internet broadband bill,EMI,EMI
+TXNP500208,Zomato lunch,Business Expense,Business Expense
+TXNP500209,Internet broadband bill,Tax,Tax
+TXNP500210,Salary credited,Shopping,Shopping
+TXNP500211,Restaurant dinner,Subscription,Subscription
+TXNP500212,Vendor payment,Subscription,Subscription
+TXNP500213,Restaurant dinner,EMI,EMI
+TXNP500214,Mobile recharge,EMI,EMI
+TXNP500215,Netflix subscription,Fuel,Fuel
+TXNP500216,Parking fee,Subscription,Subscription
+TXNP500217,Vendor payment,Service Expense,Service Expense
+TXNP500218,Fuel refill HP petrol,Grocery,Grocery
+TXNP500219,Internet broadband bill,Food,Food
+TXNP500220,Loan EMI debit,Refund,Refund
+TXNP500221,Loan EMI debit,Fuel,Fuel
+TXNP500222,Gym membership,Utility,Utility
+TXNP500223,Insurance premium debit,Service Expense,Service Expense
+TXNP500224,UPI to grocery,Insurance,Insurance
+TXNP500225,Electricity bill payment,Business Expense,Business Expense
+TXNP500226,Mobile recharge,Service Expense,Service Expense
+TXNP500227,Loan EMI debit,Travel,Travel
+TXNP500228,Flight booking MakeMyTrip,Food,Food
+TXNP500229,GST tax payment,Recharge,Recharge
+TXNP500230,Zomato lunch,Utility,Utility
+TXNP500231,Restaurant dinner,Insurance,Insurance
+TXNP500232,GST tax payment,Utility,Utility
+TXNP500233,Salary credited,Insurance,Insurance
+TXNP500234,Gym membership,Shopping,Shopping
+TXNP500235,Loan EMI debit,Grocery,Grocery
+TXNP500236,Fuel refill HP petrol,Utility,Utility
+TXNP500237,Restaurant dinner,Salary,Salary
+TXNP500238,Mobile recharge,Travel,Travel
+TXNP500239,Mobile recharge,Travel,Travel
+TXNP500240,Electricity bill payment,Fuel,Fuel
+TXNP500241,Restaurant dinner,Utility,Utility
+TXNP500242,Refund from Amazon,Salary,Salary
+TXNP500243,Fuel refill HP petrol,Salary,Salary
+TXNP500244,Swiggy dinner,Utility,Utility
+TXNP500245,Electricity bill payment,Service Expense,Service Expense
+TXNP500246,Refund from Amazon,Shopping,Shopping
+TXNP500247,Loan EMI debit,EMI,EMI
+TXNP500248,Gym membership,Grocery,Grocery
+TXNP500249,Consulting fee,Shopping,Shopping
+TXNP500250,Flight booking MakeMyTrip,Fuel,Fuel
+TXNP500251,Salary credited,Wallet,Wallet
+TXNP500252,Office stationery,Shopping,Shopping
+TXNP500253,Restaurant dinner,Salary,Salary
+TXNP500254,Flight booking MakeMyTrip,Food,Food
+TXNP500255,Amazon order,Shopping,Shopping
+TXNP500256,Office stationery,Shopping,Shopping
+TXNP500257,Consulting fee,Subscription,Subscription
+TXNP500258,Gym membership,Recharge,Recharge
+TXNP500259,Zomato lunch,Refund,Refund
+TXNP500260,Parking fee,Food,Food
+TXNP500261,Fuel refill HP petrol,Food,Food
+TXNP500262,Office stationery,Refund,Refund
+TXNP500263,Gym membership,Insurance,Insurance
+TXNP500264,Zomato lunch,Travel,Travel
+TXNP500265,GST tax payment,Utility,Utility
+TXNP500266,Parking fee,Fuel,Fuel
+TXNP500267,Refund from Amazon,Food,Food
+TXNP500268,Amazon order,Service Expense,Service Expense
+TXNP500269,Zomato lunch,Recharge,Recharge
+TXNP500270,Loan EMI debit,Refund,Refund
+TXNP500271,Insurance premium debit,Grocery,Grocery
+TXNP500272,Loan EMI debit,Wallet,Wallet
+TXNP500273,Zomato lunch,Grocery,Grocery
+TXNP500274,Insurance premium debit,EMI,EMI
+TXNP500275,Mobile recharge,Grocery,Grocery
+TXNP500276,Gym membership,Insurance,Insurance
+TXNP500277,Swiggy dinner,Utility,Utility
+TXNP500278,Netflix subscription,Food,Food
+TXNP500279,Zomato lunch,Subscription,Subscription
+TXNP500280,Consulting fee,Utility,Utility
+TXNP500281,Electricity bill payment,Fuel,Fuel
+TXNP500282,Flight booking MakeMyTrip,Food,Food
+TXNP500283,Office stationery,Salary,Salary
+TXNP500284,Gym membership,Tax,Tax
+TXNP500285,Internet broadband bill,Salary,Salary
+TXNP500286,Salary credited,Fuel,Fuel
+TXNP500287,Refund from Amazon,Refund,Refund
+TXNP500288,Netflix subscription,Recharge,Recharge
+TXNP500289,Restaurant dinner,Insurance,Insurance
+TXNP500290,Refund from Amazon,Shopping,Shopping
+TXNP500291,Flight booking MakeMyTrip,Salary,Salary
+TXNP500292,Flight booking MakeMyTrip,Travel,Travel
+TXNP500293,Insurance premium debit,Refund,Refund
+TXNP500294,Vendor payment,Business Expense,Business Expense
+TXNP500295,Salary credited,Business Expense,Business Expense
+TXNP500296,Netflix subscription,Business Expense,Business Expense
+TXNP500297,Netflix subscription,Fuel,Fuel
+TXNP500298,Zomato lunch,EMI,EMI
+TXNP500299,Electricity bill payment,Tax,Tax
+TXNP500300,Prime Video subscription,Food,Food
+TXNP500301,Refund from Amazon,Utility,Utility
+TXNP500302,Loan EMI debit,Service Expense,Service Expense
+TXNP500303,Office stationery,Service Expense,Service Expense
+TXNP500304,Fuel refill HP petrol,Food,Food
+TXNP500305,UPI to grocery,Salary,Salary
+TXNP500306,Fuel refill HP petrol,Food,Food
+TXNP500307,Mobile recharge,Tax,Tax
+TXNP500308,Swiggy dinner,Subscription,Subscription
+TXNP500309,Electricity bill payment,Utility,Utility
+TXNP500310,Insurance premium debit,Salary,Salary
+TXNP500311,Zomato lunch,Service Expense,Service Expense
+TXNP500312,Prime Video subscription,Food,Food
+TXNP500313,Restaurant dinner,Refund,Refund
+TXNP500314,Swiggy dinner,Parking,Parking
+TXNP500315,Loan EMI debit,Salary,Salary
+TXNP500316,Mobile recharge,Recharge,Recharge
+TXNP500317,Mobile recharge,Salary,Salary
+TXNP500318,Zomato lunch,EMI,EMI
+TXNP500319,Gym membership,Tax,Tax
+TXNP500320,Office stationery,Food,Food
+TXNP500321,UPI to grocery,Parking,Parking
+TXNP500322,Wallet top-up,Refund,Refund
+TXNP500323,Swiggy dinner,EMI,EMI
+TXNP500324,Restaurant dinner,Shopping,Shopping
+TXNP500325,Restaurant dinner,EMI,EMI
+TXNP500326,Zomato lunch,EMI,EMI
+TXNP500327,Gym membership,Salary,Salary
+TXNP500328,Vendor payment,EMI,EMI
+TXNP500329,Amazon order,Food,Food
+TXNP500330,GST tax payment,Travel,Travel
+TXNP500331,Electricity bill payment,Insurance,Insurance
+TXNP500332,Flight booking MakeMyTrip,Travel,Travel
+TXNP500333,Gym membership,Salary,Salary
+TXNP500334,Amazon order,Utility,Utility
+TXNP500335,Prime Video subscription,Insurance,Insurance
+TXNP500336,Zomato lunch,Fuel,Fuel
+TXNP500337,Salary credited,Salary,Salary
+TXNP500338,Restaurant dinner,Tax,Tax
+TXNP500339,Insurance premium debit,Tax,Tax
+TXNP500340,Loan EMI debit,Refund,Refund
+TXNP500341,Internet broadband bill,Salary,Salary
+TXNP500342,Vendor payment,Travel,Travel
+TXNP500343,Zomato lunch,Wallet,Wallet
+TXNP500344,Gym membership,Tax,Tax
+TXNP500345,GST tax payment,Travel,Travel
+TXNP500346,Salary credited,Tax,Tax
+TXNP500347,Office stationery,Fuel,Fuel
+TXNP500348,Prime Video subscription,Grocery,Grocery
+TXNP500349,Gym membership,Insurance,Insurance
+TXNP500350,Zomato lunch,Recharge,Recharge
+TXNP500351,Swiggy dinner,Travel,Travel
+TXNP500352,UPI to grocery,Utility,Utility
+TXNP500353,Mobile recharge,Utility,Utility
+TXNP500354,Swiggy dinner,Service Expense,Service Expense
+TXNP500355,Wallet top-up,Travel,Travel
+TXNP500356,Prime Video subscription,Subscription,Subscription
+TXNP500357,Amazon order,Travel,Travel
+TXNP500358,Netflix subscription,Wallet,Wallet
+TXNP500359,GST tax payment,Recharge,Recharge
+TXNP500360,Vendor payment,Service Expense,Service Expense
+TXNP500361,Flight booking MakeMyTrip,Wallet,Wallet
+TXNP500362,Office stationery,Recharge,Recharge
+TXNP500363,Parking fee,Utility,Utility
+TXNP500364,Insurance premium debit,Fuel,Fuel
+TXNP500365,Consulting fee,Travel,Travel
+TXNP500366,Flight booking MakeMyTrip,Shopping,Shopping
+TXNP500367,Amazon order,Utility,Utility
+TXNP500368,Restaurant dinner,EMI,EMI
+TXNP500369,Swiggy dinner,Shopping,Shopping
+TXNP500370,Consulting fee,Utility,Utility
+TXNP500371,Zomato lunch,Food,Food
+TXNP500372,Gym membership,Subscription,Subscription
+TXNP500373,Electricity bill payment,Fuel,Fuel
+TXNP500374,Loan EMI debit,Utility,Utility
+TXNP500375,Salary credited,Salary,Salary
+TXNP500376,Insurance premium debit,Insurance,Insurance
+TXNP500377,Parking fee,Food,Food
+TXNP500378,Internet broadband bill,Business Expense,Business Expense
+TXNP500379,Wallet top-up,Insurance,Insurance
+TXNP500380,Fuel refill HP petrol,Tax,Tax
+TXNP500381,Vendor payment,Shopping,Shopping
+TXNP500382,Netflix subscription,Insurance,Insurance
+TXNP500383,GST tax payment,Shopping,Shopping
+TXNP500384,Swiggy dinner,Subscription,Subscription
+TXNP500385,UPI to grocery,Recharge,Recharge
+TXNP500386,GST tax payment,EMI,EMI
+TXNP500387,Mobile recharge,Shopping,Shopping
+TXNP500388,UPI to grocery,Utility,Utility
+TXNP500389,Amazon order,Insurance,Insurance
+TXNP500390,Office stationery,Shopping,Shopping
+TXNP500391,GST tax payment,Wallet,Wallet
+TXNP500392,Flight booking MakeMyTrip,Shopping,Shopping
+TXNP500393,UPI to grocery,Insurance,Insurance
+TXNP500394,Netflix subscription,Business Expense,Business Expense
+TXNP500395,Gym membership,Tax,Tax
+TXNP500396,Flight booking MakeMyTrip,Travel,Travel
+TXNP500397,Wallet top-up,Utility,Utility
+TXNP500398,Swiggy dinner,Salary,Salary
+TXNP500399,Insurance premium debit,Insurance,Insurance
+TXNP500400,Gym membership,EMI,EMI
+TXNP500401,Mobile recharge,Food,Food
+TXNP500402,Salary credited,Salary,Salary
+TXNP500403,Consulting fee,Shopping,Shopping
+TXNP500404,Wallet top-up,Salary,Salary
+TXNP500405,Restaurant dinner,Service Expense,Service Expense
+TXNP500406,Mobile recharge,Shopping,Shopping
+TXNP500407,Flight booking MakeMyTrip,Refund,Refund
+TXNP500408,Swiggy dinner,Salary,Salary
+TXNP500409,Salary credited,Insurance,Insurance
+TXNP500410,GST tax payment,EMI,EMI
+TXNP500411,Insurance premium debit,Subscription,Subscription
+TXNP500412,Mobile recharge,Service Expense,Service Expense
+TXNP500413,Prime Video subscription,EMI,EMI
+TXNP500414,UPI to grocery,Subscription,Subscription
+TXNP500415,Netflix subscription,Parking,Parking
+TXNP500416,Amazon order,Business Expense,Business Expense
+TXNP500417,Flight booking MakeMyTrip,Business Expense,Business Expense
+TXNP500418,UPI to grocery,Shopping,Shopping
+TXNP500419,Consulting fee,Wallet,Wallet
+TXNP500420,Zomato lunch,Salary,Salary
+TXNP500421,Refund from Amazon,Grocery,Grocery
+TXNP500422,Restaurant dinner,Parking,Parking
+TXNP500423,Electricity bill payment,EMI,EMI
+TXNP500424,Consulting fee,Travel,Travel
+TXNP500425,Amazon order,Tax,Tax
+TXNP500426,Loan EMI debit,Service Expense,Service Expense
+TXNP500427,Loan EMI debit,Parking,Parking
+TXNP500428,Prime Video subscription,Shopping,Shopping
+TXNP500429,Office stationery,Salary,Salary
+TXNP500430,Swiggy dinner,Food,Food
+TXNP500431,Wallet top-up,Grocery,Grocery
+TXNP500432,Flight booking MakeMyTrip,Salary,Salary
+TXNP500433,GST tax payment,EMI,EMI
+TXNP500434,Parking fee,Tax,Tax
+TXNP500435,Netflix subscription,Wallet,Wallet
+TXNP500436,Refund from Amazon,EMI,EMI
+TXNP500437,Vendor payment,Recharge,Recharge
+TXNP500438,Internet broadband bill,Shopping,Shopping
+TXNP500439,GST tax payment,Salary,Salary
+TXNP500440,UPI to grocery,Travel,Travel
+TXNP500441,Electricity bill payment,Recharge,Recharge
+TXNP500442,Insurance premium debit,Travel,Travel
+TXNP500443,Flight booking MakeMyTrip,Salary,Salary
+TXNP500444,UPI to grocery,Business Expense,Business Expense
+TXNP500445,Loan EMI debit,Recharge,Recharge
+TXNP500446,Netflix subscription,Refund,Refund
+TXNP500447,Prime Video subscription,Recharge,Recharge
+TXNP500448,Amazon order,Service Expense,Service Expense
+TXNP500449,Zomato lunch,Wallet,Wallet
+TXNP500450,Vendor payment,Wallet,Wallet
+TXNP500451,Electricity bill payment,Parking,Parking
+TXNP500452,Insurance premium debit,Travel,Travel
+TXNP500453,Prime Video subscription,Food,Food
+TXNP500454,Mobile recharge,Travel,Travel
+TXNP500455,Swiggy dinner,Food,Food
+TXNP500456,Zomato lunch,Shopping,Shopping
+TXNP500457,Salary credited,Wallet,Wallet
+TXNP500458,Restaurant dinner,Subscription,Subscription
+TXNP500459,Wallet top-up,Subscription,Subscription
+TXNP500460,Prime Video subscription,EMI,EMI
+TXNP500461,Electricity bill payment,Refund,Refund
+TXNP500462,Swiggy dinner,Utility,Utility
+TXNP500463,Amazon order,Parking,Parking
+TXNP500464,Fuel refill HP petrol,Parking,Parking
+TXNP500465,Internet broadband bill,Recharge,Recharge
+TXNP500466,Wallet top-up,Tax,Tax
+TXNP500467,Mobile recharge,Travel,Travel
+TXNP500468,Netflix subscription,Wallet,Wallet
+TXNP500469,Vendor payment,Salary,Salary
+TXNP500470,Consulting fee,Food,Food
+TXNP500471,Refund from Amazon,Insurance,Insurance
+TXNP500472,Parking fee,Insurance,Insurance
+TXNP500473,UPI to grocery,EMI,EMI
+TXNP500474,Flight booking MakeMyTrip,Subscription,Subscription
+TXNP500475,Internet broadband bill,Utility,Utility
+TXNP500476,Office stationery,Fuel,Fuel
+TXNP500477,Fuel refill HP petrol,Insurance,Insurance
+TXNP500478,Swiggy dinner,Insurance,Insurance
+TXNP500479,Wallet top-up,Recharge,Recharge
+TXNP500480,Parking fee,Shopping,Shopping
+TXNP500481,Restaurant dinner,Utility,Utility
+TXNP500482,Wallet top-up,Recharge,Recharge
+TXNP500483,Vendor payment,Wallet,Wallet
+TXNP500484,Gym membership,Utility,Utility
+TXNP500485,UPI to grocery,Travel,Travel
+TXNP500486,Netflix subscription,Food,Food
+TXNP500487,Zomato lunch,Insurance,Insurance
+TXNP500488,Restaurant dinner,Business Expense,Business Expense
+TXNP500489,Gym membership,Utility,Utility
+TXNP500490,Mobile recharge,Salary,Salary
+TXNP500491,Wallet top-up,Tax,Tax
+TXNP500492,Salary credited,Recharge,Recharge
+TXNP500493,Swiggy dinner,Insurance,Insurance
+TXNP500494,Fuel refill HP petrol,Business Expense,Business Expense
+TXNP500495,Salary credited,Tax,Tax
+TXNP500496,Swiggy dinner,Subscription,Subscription
+TXNP500497,Gym membership,Refund,Refund
+TXNP500498,Loan EMI debit,Fuel,Fuel
+TXNP500499,Wallet top-up,Food,Food
+TXNP500500,Wallet top-up,Utility,Utility
+TXNP500501,GST tax payment,Wallet,Wallet
+TXNP500502,Netflix subscription,Shopping,Shopping
+TXNP500503,Prime Video subscription,Subscription,Subscription
+TXNP500504,Insurance premium debit,Wallet,Wallet
+TXNP500505,Amazon order,Wallet,Wallet
+TXNP500506,Refund from Amazon,EMI,EMI
+TXNP500507,Refund from Amazon,Salary,Salary
+TXNP500508,Salary credited,Salary,Salary
+TXNP500509,Parking fee,Food,Food
+TXNP500510,Insurance premium debit,Salary,Salary
+TXNP500511,Refund from Amazon,Wallet,Wallet
+TXNP500512,Electricity bill payment,Service Expense,Service Expense
+TXNP500513,Netflix subscription,Service Expense,Service Expense
+TXNP500514,Mobile recharge,Insurance,Insurance
+TXNP500515,Parking fee,Utility,Utility
+TXNP500516,Netflix subscription,Service Expense,Service Expense
+TXNP500517,GST tax payment,Service Expense,Service Expense
+TXNP500518,Internet broadband bill,Utility,Utility
+TXNP500519,Swiggy dinner,Travel,Travel
+TXNP500520,Prime Video subscription,Shopping,Shopping
+TXNP500521,Netflix subscription,Tax,Tax
+TXNP500522,Insurance premium debit,Parking,Parking
+TXNP500523,Consulting fee,Salary,Salary
+TXNP500524,Zomato lunch,Subscription,Subscription
+TXNP500525,Office stationery,Recharge,Recharge
+TXNP500526,Consulting fee,Parking,Parking
+TXNP500527,Salary credited,Food,Food
+TXNP500528,Insurance premium debit,Business Expense,Business Expense
+TXNP500529,Insurance premium debit,Salary,Salary
+TXNP500530,Insurance premium debit,EMI,EMI
+TXNP500531,Flight booking MakeMyTrip,Salary,Salary
+TXNP500532,GST tax payment,Parking,Parking
+TXNP500533,Loan EMI debit,Business Expense,Business Expense
+TXNP500534,GST tax payment,Business Expense,Business Expense
+TXNP500535,Office stationery,Subscription,Subscription
+TXNP500536,Fuel refill HP petrol,Salary,Salary
+TXNP500537,Consulting fee,Food,Food
+TXNP500538,Parking fee,Salary,Salary
+TXNP500539,Restaurant dinner,Utility,Utility
+TXNP500540,Gym membership,Shopping,Shopping
+TXNP500541,Zomato lunch,Food,Food
+TXNP500542,Wallet top-up,Shopping,Shopping
+TXNP500543,Zomato lunch,Grocery,Grocery
+TXNP500544,UPI to grocery,Utility,Utility
+TXNP500545,Gym membership,Utility,Utility
+TXNP500546,Internet broadband bill,Parking,Parking
+TXNP500547,Electricity bill payment,Travel,Travel
+TXNP500548,Prime Video subscription,Parking,Parking
+TXNP500549,Office stationery,Food,Food
+TXNP500550,Consulting fee,Shopping,Shopping
+TXNP500551,Flight booking MakeMyTrip,Tax,Tax
+TXNP500552,Electricity bill payment,EMI,EMI
+TXNP500553,Fuel refill HP petrol,Shopping,Shopping
+TXNP500554,Vendor payment,Shopping,Shopping
+TXNP500555,Flight booking MakeMyTrip,Grocery,Grocery
+TXNP500556,Mobile recharge,Shopping,Shopping
+TXNP500557,Mobile recharge,EMI,EMI
+TXNP500558,Insurance premium debit,Insurance,Insurance
+TXNP500559,GST tax payment,Salary,Salary
+TXNP500560,Gym membership,Utility,Utility
+TXNP500561,GST tax payment,Tax,Tax
+TXNP500562,Salary credited,Utility,Utility
+TXNP500563,Loan EMI debit,EMI,EMI
+TXNP500564,Netflix subscription,Service Expense,Service Expense
+TXNP500565,Internet broadband bill,Utility,Utility
+TXNP500566,Restaurant dinner,Salary,Salary
+TXNP500567,Netflix subscription,Fuel,Fuel
+TXNP500568,Flight booking MakeMyTrip,Shopping,Shopping
+TXNP500569,Internet broadband bill,Refund,Refund
+TXNP500570,Swiggy dinner,Tax,Tax
+TXNP500571,Swiggy dinner,Grocery,Grocery
+TXNP500572,Salary credited,Wallet,Wallet
+TXNP500573,Mobile recharge,Fuel,Fuel
+TXNP500574,Consulting fee,Grocery,Grocery
+TXNP500575,Office stationery,Recharge,Recharge
+TXNP500576,Refund from Amazon,Shopping,Shopping
+TXNP500577,Zomato lunch,Fuel,Fuel
+TXNP500578,Consulting fee,Salary,Salary
+TXNP500579,Loan EMI debit,Food,Food
+TXNP500580,Zomato lunch,Shopping,Shopping
+TXNP500581,Netflix subscription,Business Expense,Business Expense
+TXNP500582,Amazon order,Salary,Salary
+TXNP500583,Amazon order,Food,Food
+TXNP500584,Zomato lunch,Food,Food
+TXNP500585,Fuel refill HP petrol,Travel,Travel
+TXNP500586,Fuel refill HP petrol,Wallet,Wallet
+TXNP500587,Amazon order,Insurance,Insurance
+TXNP500588,Internet broadband bill,Tax,Tax
+TXNP500589,Mobile recharge,Service Expense,Service Expense
+TXNP500590,Restaurant dinner,EMI,EMI
+TXNP500591,Restaurant dinner,Refund,Refund
+TXNP500592,Zomato lunch,Business Expense,Business Expense
+TXNP500593,Consulting fee,Parking,Parking
+TXNP500594,Swiggy dinner,Service Expense,Service Expense
+TXNP500595,Flight booking MakeMyTrip,EMI,EMI
+TXNP500596,Fuel refill HP petrol,Utility,Utility
+TXNP500597,Swiggy dinner,Fuel,Fuel
+TXNP500598,Netflix subscription,Travel,Travel
+TXNP500599,Wallet top-up,Fuel,Fuel
+TXNP500600,Insurance premium debit,Fuel,Fuel
+TXNP500601,Flight booking MakeMyTrip,Business Expense,Business Expense
+TXNP500602,Prime Video subscription,EMI,EMI
+TXNP500603,Amazon order,Service Expense,Service Expense
+TXNP500604,Gym membership,Food,Food
+TXNP500605,Gym membership,EMI,EMI
+TXNP500606,Prime Video subscription,Food,Food
+TXNP500607,Prime Video subscription,Travel,Travel
+TXNP500608,Insurance premium debit,Grocery,Grocery
+TXNP500609,Vendor payment,Utility,Utility
+TXNP500610,Consulting fee,Subscription,Subscription
+TXNP500611,Consulting fee,Utility,Utility
+TXNP500612,Zomato lunch,Wallet,Wallet
+TXNP500613,Refund from Amazon,Wallet,Wallet
+TXNP500614,Zomato lunch,Fuel,Fuel
+TXNP500615,Office stationery,Recharge,Recharge
+TXNP500616,GST tax payment,Shopping,Shopping
+TXNP500617,Mobile recharge,Refund,Refund
+TXNP500618,GST tax payment,EMI,EMI
+TXNP500619,Restaurant dinner,Insurance,Insurance
+TXNP500620,Restaurant dinner,Grocery,Grocery
+TXNP500621,Zomato lunch,Wallet,Wallet
+TXNP500622,Mobile recharge,Utility,Utility
+TXNP500623,Salary credited,Shopping,Shopping
+TXNP500624,Consulting fee,Shopping,Shopping
+TXNP500625,Insurance premium debit,Utility,Utility
+TXNP500626,GST tax payment,Business Expense,Business Expense
+TXNP500627,Prime Video subscription,Shopping,Shopping
+TXNP500628,Restaurant dinner,Subscription,Subscription
+TXNP500629,Gym membership,Parking,Parking
+TXNP500630,Amazon order,Wallet,Wallet
+TXNP500631,Zomato lunch,Grocery,Grocery
+TXNP500632,Internet broadband bill,EMI,EMI
+TXNP500633,Prime Video subscription,Tax,Tax
+TXNP500634,Swiggy dinner,EMI,EMI
+TXNP500635,Swiggy dinner,Salary,Salary
+TXNP500636,Swiggy dinner,Refund,Refund
+TXNP500637,Fuel refill HP petrol,Business Expense,Business Expense
+TXNP500638,Prime Video subscription,Tax,Tax
+TXNP500639,Salary credited,Utility,Utility
+TXNP500640,Netflix subscription,Insurance,Insurance
+TXNP500641,Refund from Amazon,Shopping,Shopping
+TXNP500642,Loan EMI debit,Shopping,Shopping
+TXNP500643,Netflix subscription,Service Expense,Service Expense
+TXNP500644,Netflix subscription,Shopping,Shopping
+TXNP500645,Vendor payment,Shopping,Shopping
+TXNP500646,Electricity bill payment,Salary,Salary
+TXNP500647,Netflix subscription,Service Expense,Service Expense
+TXNP500648,Internet broadband bill,Tax,Tax
+TXNP500649,Swiggy dinner,Recharge,Recharge
+TXNP500650,Salary credited,Travel,Travel
+TXNP500651,Insurance premium debit,Utility,Utility
+TXNP500652,Netflix subscription,Food,Food
+TXNP500653,Refund from Amazon,EMI,EMI
+TXNP500654,Restaurant dinner,Grocery,Grocery
+TXNP500655,Internet broadband bill,Fuel,Fuel
+TXNP500656,Prime Video subscription,Subscription,Subscription
+TXNP500657,Office stationery,Salary,Salary
+TXNP500658,Gym membership,Shopping,Shopping
+TXNP500659,Electricity bill payment,Utility,Utility
+TXNP500660,Flight booking MakeMyTrip,Shopping,Shopping
+TXNP500661,Salary credited,Subscription,Subscription
+TXNP500662,Netflix subscription,Food,Food
+TXNP500663,Prime Video subscription,Food,Food
+TXNP500664,Zomato lunch,Travel,Travel
+TXNP500665,Consulting fee,Utility,Utility
+TXNP500666,Vendor payment,Fuel,Fuel
+TXNP500667,Fuel refill HP petrol,Food,Food
+TXNP500668,Restaurant dinner,Wallet,Wallet
+TXNP500669,GST tax payment,Parking,Parking
+TXNP500670,Flight booking MakeMyTrip,Travel,Travel
+TXNP500671,Refund from Amazon,Food,Food
+TXNP500672,Restaurant dinner,Business Expense,Business Expense
+TXNP500673,Office stationery,Utility,Utility
+TXNP500674,Parking fee,Salary,Salary
+TXNP500675,Fuel refill HP petrol,Utility,Utility
+TXNP500676,Insurance premium debit,EMI,EMI
+TXNP500677,Loan EMI debit,Fuel,Fuel
+TXNP500678,Mobile recharge,Recharge,Recharge
+TXNP500679,Electricity bill payment,Subscription,Subscription
+TXNP500680,Salary credited,Fuel,Fuel
+TXNP500681,Fuel refill HP petrol,Fuel,Fuel
+TXNP500682,Internet broadband bill,Salary,Salary
+TXNP500683,GST tax payment,Salary,Salary
+TXNP500684,GST tax payment,Refund,Refund
+TXNP500685,Refund from Amazon,Food,Food
+TXNP500686,Gym membership,Business Expense,Business Expense
+TXNP500687,Netflix subscription,Utility,Utility
+TXNP500688,GST tax payment,Salary,Salary
+TXNP500689,Refund from Amazon,Food,Food
+TXNP500690,Restaurant dinner,Shopping,Shopping
+TXNP500691,GST tax payment,Salary,Salary
+TXNP500692,Vendor payment,Travel,Travel
+TXNP500693,Prime Video subscription,Grocery,Grocery
+TXNP500694,Amazon order,Wallet,Wallet
+TXNP500695,Netflix subscription,Shopping,Shopping
+TXNP500696,Insurance premium debit,Utility,Utility
+TXNP500697,Restaurant dinner,EMI,EMI
+TXNP500698,Refund from Amazon,Tax,Tax
+TXNP500699,GST tax payment,Food,Food
+TXNP500700,Electricity bill payment,Travel,Travel
+TXNP500701,Salary credited,Grocery,Grocery
+TXNP500702,UPI to grocery,Tax,Tax
+TXNP500703,Gym membership,Shopping,Shopping
+TXNP500704,Gym membership,Insurance,Insurance
+TXNP500705,Swiggy dinner,Wallet,Wallet
+TXNP500706,Vendor payment,Subscription,Subscription
+TXNP500707,Office stationery,Food,Food
+TXNP500708,Zomato lunch,Salary,Salary
+TXNP500709,Electricity bill payment,Salary,Salary
+TXNP500710,Swiggy dinner,Business Expense,Business Expense
+TXNP500711,Wallet top-up,Fuel,Fuel
+TXNP500712,Parking fee,Tax,Tax
+TXNP500713,Consulting fee,Shopping,Shopping
+TXNP500714,Amazon order,EMI,EMI
+TXNP500715,Parking fee,Salary,Salary
+TXNP500716,Netflix subscription,Subscription,Subscription
+TXNP500717,Prime Video subscription,Insurance,Insurance
+TXNP500718,Consulting fee,Subscription,Subscription
+TXNP500719,Parking fee,Shopping,Shopping
+TXNP500720,Salary credited,Recharge,Recharge
+TXNP500721,GST tax payment,Insurance,Insurance
+TXNP500722,Office stationery,EMI,EMI
+TXNP500723,UPI to grocery,Business Expense,Business Expense
+TXNP500724,Mobile recharge,Subscription,Subscription
+TXNP500725,Zomato lunch,Service Expense,Service Expense
+TXNP500726,UPI to grocery,Travel,Travel
+TXNP500727,Flight booking MakeMyTrip,Shopping,Shopping
+TXNP500728,Zomato lunch,Shopping,Shopping
+TXNP500729,Parking fee,Subscription,Subscription
+TXNP500730,Vendor payment,Salary,Salary
+TXNP500731,Prime Video subscription,Travel,Travel
+TXNP500732,Prime Video subscription,Travel,Travel
+TXNP500733,GST tax payment,Recharge,Recharge
+TXNP500734,Swiggy dinner,Parking,Parking
+TXNP500735,Amazon order,EMI,EMI
+TXNP500736,Amazon order,EMI,EMI
+TXNP500737,Loan EMI debit,Salary,Salary
+TXNP500738,Wallet top-up,Food,Food
+TXNP500739,Internet broadband bill,Shopping,Shopping
+TXNP500740,Amazon order,EMI,EMI
+TXNP500741,Restaurant dinner,Business Expense,Business Expense
+TXNP500742,Flight booking MakeMyTrip,Subscription,Subscription
+TXNP500743,Swiggy dinner,Utility,Utility
+TXNP500744,Gym membership,EMI,EMI
+TXNP500745,Insurance premium debit,Subscription,Subscription
+TXNP500746,Loan EMI debit,Salary,Salary
+TXNP500747,Refund from Amazon,Grocery,Grocery
+TXNP500748,Office stationery,Utility,Utility
+TXNP500749,Fuel refill HP petrol,Wallet,Wallet
+TXNP500750,Wallet top-up,Utility,Utility
+TXNP500751,Amazon order,Parking,Parking
+TXNP500752,Insurance premium debit,Food,Food
+TXNP500753,Prime Video subscription,Fuel,Fuel
+TXNP500754,Parking fee,Shopping,Shopping
+TXNP500755,Electricity bill payment,Food,Food
+TXNP500756,GST tax payment,Insurance,Insurance
+TXNP500757,Parking fee,Travel,Travel
+TXNP500758,Office stationery,Travel,Travel
+TXNP500759,Refund from Amazon,Wallet,Wallet
+TXNP500760,Wallet top-up,Subscription,Subscription
+TXNP500761,Insurance premium debit,Business Expense,Business Expense
+TXNP500762,Mobile recharge,Travel,Travel
+TXNP500763,Parking fee,Salary,Salary
+TXNP500764,GST tax payment,Salary,Salary
+TXNP500765,Insurance premium debit,Utility,Utility
+TXNP500766,GST tax payment,Insurance,Insurance
+TXNP500767,Parking fee,Food,Food
+TXNP500768,Wallet top-up,Food,Food
+TXNP500769,Internet broadband bill,Service Expense,Service Expense
+TXNP500770,Wallet top-up,Subscription,Subscription
+TXNP500771,Netflix subscription,Subscription,Subscription
+TXNP500772,UPI to grocery,EMI,EMI
+TXNP500773,Loan EMI debit,Insurance,Insurance
+TXNP500774,Loan EMI debit,Shopping,Shopping
+TXNP500775,Vendor payment,Utility,Utility
+TXNP500776,Mobile recharge,Utility,Utility
+TXNP500777,Salary credited,EMI,EMI
+TXNP500778,Refund from Amazon,Food,Food
+TXNP500779,Flight booking MakeMyTrip,Business Expense,Business Expense
+TXNP500780,Internet broadband bill,Grocery,Grocery
+TXNP500781,Flight booking MakeMyTrip,Travel,Travel
+TXNP500782,Parking fee,Refund,Refund
+TXNP500783,Mobile recharge,Shopping,Shopping
+TXNP500784,Mobile recharge,Fuel,Fuel
+TXNP500785,Parking fee,Shopping,Shopping
+TXNP500786,Restaurant dinner,Wallet,Wallet
+TXNP500787,Internet broadband bill,Food,Food
+TXNP500788,Prime Video subscription,Utility,Utility
+TXNP500789,Mobile recharge,Grocery,Grocery
+TXNP500790,Office stationery,Refund,Refund
+TXNP500791,Parking fee,Subscription,Subscription
+TXNP500792,GST tax payment,EMI,EMI
+TXNP500793,Gym membership,Travel,Travel
+TXNP500794,Mobile recharge,Insurance,Insurance
+TXNP500795,Loan EMI debit,Subscription,Subscription
+TXNP500796,Parking fee,Business Expense,Business Expense
+TXNP500797,Loan EMI debit,Wallet,Wallet
+TXNP500798,Loan EMI debit,Insurance,Insurance
+TXNP500799,Netflix subscription,Subscription,Subscription
+TXNP500800,Mobile recharge,Food,Food
+TXNP500801,Zomato lunch,EMI,EMI
+TXNP500802,Wallet top-up,Salary,Salary
+TXNP500803,Prime Video subscription,Business Expense,Business Expense
+TXNP500804,Refund from Amazon,Tax,Tax
+TXNP500805,Salary credited,Grocery,Grocery
+TXNP500806,Fuel refill HP petrol,Wallet,Wallet
+TXNP500807,Internet broadband bill,Food,Food
+TXNP500808,Mobile recharge,Grocery,Grocery
+TXNP500809,Loan EMI debit,Parking,Parking
+TXNP500810,Internet broadband bill,Utility,Utility
+TXNP500811,Salary credited,Salary,Salary
+TXNP500812,Wallet top-up,Wallet,Wallet
+TXNP500813,Flight booking MakeMyTrip,Travel,Travel
+TXNP500814,Vendor payment,Salary,Salary
+TXNP500815,Vendor payment,Insurance,Insurance
+TXNP500816,Zomato lunch,Refund,Refund
+TXNP500817,Office stationery,Grocery,Grocery
+TXNP500818,Netflix subscription,Utility,Utility
+TXNP500819,Restaurant dinner,Wallet,Wallet
+TXNP500820,Flight booking MakeMyTrip,Shopping,Shopping
+TXNP500821,Prime Video subscription,Subscription,Subscription
+TXNP500822,Loan EMI debit,Business Expense,Business Expense
+TXNP500823,Internet broadband bill,Parking,Parking
+TXNP500824,Vendor payment,Shopping,Shopping
+TXNP500825,Insurance premium debit,Parking,Parking
+TXNP500826,Vendor payment,Food,Food
+TXNP500827,Flight booking MakeMyTrip,EMI,EMI
+TXNP500828,Zomato lunch,Salary,Salary
+TXNP500829,Office stationery,Salary,Salary
+TXNP500830,Prime Video subscription,Insurance,Insurance
+TXNP500831,Restaurant dinner,Food,Food
+TXNP500832,Vendor payment,Shopping,Shopping
+TXNP500833,Office stationery,Recharge,Recharge
+TXNP500834,Restaurant dinner,Shopping,Shopping
+TXNP500835,Office stationery,Wallet,Wallet
+TXNP500836,Zomato lunch,EMI,EMI
+TXNP500837,Salary credited,Business Expense,Business Expense
+TXNP500838,Gym membership,Business Expense,Business Expense
+TXNP500839,Electricity bill payment,Fuel,Fuel
+TXNP500840,Insurance premium debit,EMI,EMI
+TXNP500841,Refund from Amazon,EMI,EMI
+TXNP500842,Mobile recharge,Tax,Tax
+TXNP500843,Fuel refill HP petrol,EMI,EMI
+TXNP500844,Refund from Amazon,Utility,Utility
+TXNP500845,Loan EMI debit,Salary,Salary
+TXNP500846,Wallet top-up,Food,Food
+TXNP500847,Netflix subscription,Fuel,Fuel
+TXNP500848,Amazon order,Business Expense,Business Expense
+TXNP500849,Prime Video subscription,Shopping,Shopping
+TXNP500850,Fuel refill HP petrol,EMI,EMI
+TXNP500851,Flight booking MakeMyTrip,Tax,Tax
+TXNP500852,Office stationery,Business Expense,Business Expense
+TXNP500853,GST tax payment,Food,Food
+TXNP500854,Internet broadband bill,Food,Food
+TXNP500855,Prime Video subscription,Shopping,Shopping
+TXNP500856,Salary credited,Subscription,Subscription
+TXNP500857,Vendor payment,Grocery,Grocery
+TXNP500858,Refund from Amazon,Subscription,Subscription
+TXNP500859,Fuel refill HP petrol,Insurance,Insurance
+TXNP500860,Flight booking MakeMyTrip,Refund,Refund
+TXNP500861,Gym membership,Salary,Salary
+TXNP500862,UPI to grocery,Fuel,Fuel
+TXNP500863,Zomato lunch,Food,Food
+TXNP500864,Prime Video subscription,Utility,Utility
+TXNP500865,Amazon order,Insurance,Insurance
+TXNP500866,Insurance premium debit,Parking,Parking
+TXNP500867,Vendor payment,Refund,Refund
+TXNP500868,Electricity bill payment,Travel,Travel
+TXNP500869,Wallet top-up,Salary,Salary
+TXNP500870,Consulting fee,Food,Food
+TXNP500871,Consulting fee,Grocery,Grocery
+TXNP500872,Consulting fee,Recharge,Recharge
+TXNP500873,Electricity bill payment,Subscription,Subscription
+TXNP500874,UPI to grocery,Insurance,Insurance
+TXNP500875,GST tax payment,Salary,Salary
+TXNP500876,Internet broadband bill,EMI,EMI
+TXNP500877,Vendor payment,Refund,Refund
+TXNP500878,Refund from Amazon,Food,Food
+TXNP500879,Refund from Amazon,Business Expense,Business Expense
+TXNP500880,Wallet top-up,Business Expense,Business Expense
+TXNP500881,Restaurant dinner,Recharge,Recharge
+TXNP500882,Parking fee,EMI,EMI
+TXNP500883,Prime Video subscription,Shopping,Shopping
+TXNP500884,Refund from Amazon,Grocery,Grocery
+TXNP500885,Refund from Amazon,EMI,EMI
+TXNP500886,Parking fee,Food,Food
+TXNP500887,Parking fee,Insurance,Insurance
+TXNP500888,GST tax payment,Insurance,Insurance
+TXNP500889,Restaurant dinner,Salary,Salary
+TXNP500890,UPI to grocery,Food,Food
+TXNP500891,Netflix subscription,Utility,Utility
+TXNP500892,Wallet top-up,Utility,Utility
+TXNP500893,Consulting fee,Business Expense,Business Expense
+TXNP500894,Wallet top-up,Salary,Salary
+TXNP500895,Electricity bill payment,Food,Food
+TXNP500896,Fuel refill HP petrol,Utility,Utility
+TXNP500897,Electricity bill payment,Service Expense,Service Expense
+TXNP500898,Loan EMI debit,Refund,Refund
+TXNP500899,Vendor payment,Shopping,Shopping
+TXNP500900,Mobile recharge,Fuel,Fuel
+TXNP500901,UPI to grocery,Travel,Travel
+TXNP500902,Fuel refill HP petrol,Subscription,Subscription
+TXNP500903,Refund from Amazon,Shopping,Shopping
+TXNP500904,Refund from Amazon,Service Expense,Service Expense
+TXNP500905,Internet broadband bill,Subscription,Subscription
+TXNP500906,Internet broadband bill,Subscription,Subscription
+TXNP500907,Office stationery,Recharge,Recharge
+TXNP500908,GST tax payment,Recharge,Recharge
+TXNP500909,Amazon order,Food,Food
+TXNP500910,Consulting fee,Travel,Travel
+TXNP500911,UPI to grocery,Refund,Refund
+TXNP500912,Insurance premium debit,Insurance,Insurance
+TXNP500913,Prime Video subscription,Food,Food
+TXNP500914,Electricity bill payment,Travel,Travel
+TXNP500915,Fuel refill HP petrol,Business Expense,Business Expense
+TXNP500916,Office stationery,Utility,Utility
+TXNP500917,Amazon order,Business Expense,Business Expense
+TXNP500918,GST tax payment,Refund,Refund
+TXNP500919,Electricity bill payment,Business Expense,Business Expense
+TXNP500920,Office stationery,Food,Food
+TXNP500921,Fuel refill HP petrol,EMI,EMI
+TXNP500922,Amazon order,Subscription,Subscription
+TXNP500923,Consulting fee,Shopping,Shopping
+TXNP500924,Internet broadband bill,Business Expense,Business Expense
+TXNP500925,Fuel refill HP petrol,Fuel,Fuel
+TXNP500926,Netflix subscription,Fuel,Fuel
+TXNP500927,Office stationery,Shopping,Shopping
+TXNP500928,Mobile recharge,Wallet,Wallet
+TXNP500929,Internet broadband bill,EMI,EMI
+TXNP500930,Salary credited,Salary,Salary
+TXNP500931,Internet broadband bill,Shopping,Shopping
+TXNP500932,Swiggy dinner,Salary,Salary
+TXNP500933,Amazon order,Parking,Parking
+TXNP500934,GST tax payment,Parking,Parking
+TXNP500935,Prime Video subscription,Food,Food
+TXNP500936,Fuel refill HP petrol,Travel,Travel
+TXNP500937,Internet broadband bill,EMI,EMI
+TXNP500938,Prime Video subscription,Insurance,Insurance
+TXNP500939,Netflix subscription,Tax,Tax
+TXNP500940,GST tax payment,Subscription,Subscription
+TXNP500941,Salary credited,Food,Food
+TXNP500942,Wallet top-up,Tax,Tax
+TXNP500943,Swiggy dinner,Shopping,Shopping
+TXNP500944,Netflix subscription,Parking,Parking
+TXNP500945,Wallet top-up,Salary,Salary
+TXNP500946,Office stationery,Wallet,Wallet
+TXNP500947,Prime Video subscription,Insurance,Insurance
+TXNP500948,Restaurant dinner,Insurance,Insurance
+TXNP500949,Insurance premium debit,Grocery,Grocery
+TXNP500950,Vendor payment,Subscription,Subscription
+TXNP500951,Office stationery,Utility,Utility
+TXNP500952,Vendor payment,Recharge,Recharge
+TXNP500953,Mobile recharge,Shopping,Shopping
+TXNP500954,Prime Video subscription,Shopping,Shopping
+TXNP500955,Mobile recharge,Refund,Refund
+TXNP500956,Wallet top-up,Food,Food
+TXNP500957,Consulting fee,Utility,Utility
+TXNP500958,Refund from Amazon,Utility,Utility
+TXNP500959,Insurance premium debit,Food,Food
+TXNP500960,Wallet top-up,Travel,Travel
+TXNP500961,Gym membership,Subscription,Subscription
+TXNP500962,Consulting fee,Salary,Salary
+TXNP500963,Vendor payment,Food,Food
+TXNP500964,Mobile recharge,Grocery,Grocery
+TXNP500965,Prime Video subscription,Salary,Salary
+TXNP500966,GST tax payment,Insurance,Insurance
+TXNP500967,Amazon order,Wallet,Wallet
+TXNP500968,Restaurant dinner,Utility,Utility
+TXNP500969,Office stationery,Shopping,Shopping
+TXNP500970,Salary credited,Salary,Salary
+TXNP500971,Insurance premium debit,Business Expense,Business Expense
+TXNP500972,Vendor payment,Parking,Parking
+TXNP500973,Office stationery,Grocery,Grocery
+TXNP500974,Office stationery,Shopping,Shopping
+TXNP500975,Restaurant dinner,Service Expense,Service Expense
+TXNP500976,Restaurant dinner,Subscription,Subscription
+TXNP500977,Electricity bill payment,Food,Food
+TXNP500978,Swiggy dinner,Salary,Salary
+TXNP500979,Gym membership,Salary,Salary
+TXNP500980,Mobile recharge,Wallet,Wallet
+TXNP500981,Amazon order,Food,Food
+TXNP500982,GST tax payment,Salary,Salary
+TXNP500983,Insurance premium debit,Wallet,Wallet
+TXNP500984,Prime Video subscription,Salary,Salary
+TXNP500985,Gym membership,Tax,Tax
+TXNP500986,Consulting fee,Shopping,Shopping
+TXNP500987,Restaurant dinner,Salary,Salary
+TXNP500988,Fuel refill HP petrol,Wallet,Wallet
+TXNP500989,Amazon order,Food,Food
+TXNP500990,Refund from Amazon,Parking,Parking
+TXNP500991,Fuel refill HP petrol,Refund,Refund
+TXNP500992,Mobile recharge,Shopping,Shopping
+TXNP500993,Vendor payment,Travel,Travel
+TXNP500994,Mobile recharge,Shopping,Shopping
+TXNP500995,Insurance premium debit,Subscription,Subscription
+TXNP500996,Vendor payment,EMI,EMI
+TXNP500997,Office stationery,Refund,Refund
+TXNP500998,Amazon order,Salary,Salary
+TXNP500999,Gym membership,Food,Food
+TXNP501000,Mobile recharge,Business Expense,Business Expense
+TXNP501001,Netflix subscription,Tax,Tax
+TXNP501002,Fuel refill HP petrol,Shopping,Shopping
+TXNP501003,Internet broadband bill,Shopping,Shopping
+TXNP501004,Gym membership,Business Expense,Business Expense
+TXNP501005,Loan EMI debit,Subscription,Subscription
+TXNP501006,Insurance premium debit,Grocery,Grocery
+TXNP501007,Restaurant dinner,Food,Food
+TXNP501008,Fuel refill HP petrol,EMI,EMI
+TXNP501009,Zomato lunch,Service Expense,Service Expense
+TXNP501010,Restaurant dinner,Salary,Salary
+TXNP501011,Restaurant dinner,Utility,Utility
+TXNP501012,Netflix subscription,Travel,Travel
+TXNP501013,Gym membership,Salary,Salary
+TXNP501014,Restaurant dinner,Fuel,Fuel
+TXNP501015,Insurance premium debit,Food,Food
+TXNP501016,Vendor payment,EMI,EMI
+TXNP501017,Office stationery,Food,Food
+TXNP501018,Prime Video subscription,Refund,Refund
+TXNP501019,Netflix subscription,Utility,Utility
+TXNP501020,Swiggy dinner,Wallet,Wallet
+TXNP501021,Wallet top-up,Tax,Tax
+TXNP501022,Refund from Amazon,Travel,Travel
+TXNP501023,Wallet top-up,Utility,Utility
+TXNP501024,Office stationery,Utility,Utility
+TXNP501025,Mobile recharge,Shopping,Shopping
+TXNP501026,Flight booking MakeMyTrip,EMI,EMI
+TXNP501027,Loan EMI debit,Food,Food
+TXNP501028,Mobile recharge,Insurance,Insurance
+TXNP501029,Insurance premium debit,Salary,Salary
+TXNP501030,Flight booking MakeMyTrip,Salary,Salary
+TXNP501031,Insurance premium debit,Food,Food
+TXNP501032,GST tax payment,Insurance,Insurance
+TXNP501033,Mobile recharge,Utility,Utility
+TXNP501034,Swiggy dinner,Recharge,Recharge
+TXNP501035,Internet broadband bill,Shopping,Shopping
+TXNP501036,Zomato lunch,Service Expense,Service Expense
+TXNP501037,Swiggy dinner,Subscription,Subscription
+TXNP501038,Salary credited,Shopping,Shopping
+TXNP501039,Zomato lunch,Shopping,Shopping
+TXNP501040,UPI to grocery,Food,Food
+TXNP501041,Swiggy dinner,Shopping,Shopping
+TXNP501042,Flight booking MakeMyTrip,Insurance,Insurance
+TXNP501043,Prime Video subscription,Business Expense,Business Expense
+TXNP501044,Loan EMI debit,Insurance,Insurance
+TXNP501045,GST tax payment,Business Expense,Business Expense
+TXNP501046,Wallet top-up,Food,Food
+TXNP501047,Salary credited,Utility,Utility
+TXNP501048,Parking fee,Travel,Travel
+TXNP501049,Fuel refill HP petrol,EMI,EMI
+TXNP501050,Fuel refill HP petrol,Insurance,Insurance
+TXNP501051,Gym membership,Shopping,Shopping
+TXNP501052,Parking fee,Salary,Salary
+TXNP501053,Wallet top-up,Parking,Parking
+TXNP501054,Mobile recharge,Utility,Utility
+TXNP501055,Flight booking MakeMyTrip,Parking,Parking
+TXNP501056,Salary credited,Parking,Parking
+TXNP501057,Insurance premium debit,Tax,Tax
+TXNP501058,Swiggy dinner,Insurance,Insurance
+TXNP501059,Zomato lunch,Wallet,Wallet
+TXNP501060,Insurance premium debit,Service Expense,Service Expense
+TXNP501061,Consulting fee,Shopping,Shopping
+TXNP501062,Consulting fee,Food,Food
+TXNP501063,Fuel refill HP petrol,Recharge,Recharge
+TXNP501064,Fuel refill HP petrol,Food,Food
+TXNP501065,Netflix subscription,Food,Food
+TXNP501066,Vendor payment,EMI,EMI
+TXNP501067,GST tax payment,Wallet,Wallet
+TXNP501068,Wallet top-up,Business Expense,Business Expense
+TXNP501069,Amazon order,Utility,Utility
+TXNP501070,Electricity bill payment,Subscription,Subscription
+TXNP501071,Refund from Amazon,Insurance,Insurance
+TXNP501072,Restaurant dinner,Business Expense,Business Expense
+TXNP501073,Insurance premium debit,Refund,Refund
+TXNP501074,Office stationery,Tax,Tax
+TXNP501075,Internet broadband bill,Salary,Salary
+TXNP501076,Office stationery,Business Expense,Business Expense
+TXNP501077,UPI to grocery,Salary,Salary
+TXNP501078,Gym membership,Service Expense,Service Expense
+TXNP501079,Zomato lunch,Parking,Parking
+TXNP501080,Parking fee,Shopping,Shopping
+TXNP501081,Parking fee,Utility,Utility
+TXNP501082,Office stationery,Travel,Travel
+TXNP501083,Refund from Amazon,Shopping,Shopping
+TXNP501084,Wallet top-up,Service Expense,Service Expense
+TXNP501085,Netflix subscription,Grocery,Grocery
+TXNP501086,Internet broadband bill,Grocery,Grocery
+TXNP501087,Zomato lunch,Parking,Parking
+TXNP501088,UPI to grocery,Insurance,Insurance
+TXNP501089,Amazon order,Business Expense,Business Expense
+TXNP501090,UPI to grocery,EMI,EMI
+TXNP501091,Prime Video subscription,Insurance,Insurance
+TXNP501092,Insurance premium debit,Wallet,Wallet
+TXNP501093,Wallet top-up,Wallet,Wallet
+TXNP501094,Consulting fee,Insurance,Insurance
+TXNP501095,Flight booking MakeMyTrip,Wallet,Wallet
+TXNP501096,GST tax payment,Food,Food
+TXNP501097,Mobile recharge,Shopping,Shopping
+TXNP501098,Amazon order,Travel,Travel
+TXNP501099,Office stationery,Shopping,Shopping
+TXNP501100,Loan EMI debit,Insurance,Insurance
+TXNP501101,Electricity bill payment,Shopping,Shopping
+TXNP501102,Insurance premium debit,Recharge,Recharge
+TXNP501103,Swiggy dinner,Travel,Travel
+TXNP501104,Loan EMI debit,Shopping,Shopping
+TXNP501105,Loan EMI debit,Salary,Salary
+TXNP501106,Internet broadband bill,Grocery,Grocery
+TXNP501107,Mobile recharge,Wallet,Wallet
+TXNP501108,Internet broadband bill,Business Expense,Business Expense
+TXNP501109,Fuel refill HP petrol,Salary,Salary
+TXNP501110,Consulting fee,Travel,Travel
+TXNP501111,Electricity bill payment,EMI,EMI
+TXNP501112,GST tax payment,Fuel,Fuel
+TXNP501113,Refund from Amazon,Subscription,Subscription
+TXNP501114,Insurance premium debit,EMI,EMI
+TXNP501115,Internet broadband bill,Food,Food
+TXNP501116,Consulting fee,Salary,Salary
+TXNP501117,Gym membership,Salary,Salary
+TXNP501118,Wallet top-up,Shopping,Shopping
+TXNP501119,Consulting fee,Salary,Salary
+TXNP501120,Vendor payment,Recharge,Recharge
+TXNP501121,Mobile recharge,Food,Food
+TXNP501122,Parking fee,Refund,Refund
+TXNP501123,Salary credited,Utility,Utility
+TXNP501124,Loan EMI debit,Shopping,Shopping
+TXNP501125,Electricity bill payment,Insurance,Insurance
+TXNP501126,Parking fee,Parking,Parking
+TXNP501127,Parking fee,Salary,Salary
+TXNP501128,Insurance premium debit,Service Expense,Service Expense
+TXNP501129,Flight booking MakeMyTrip,Wallet,Wallet
+TXNP501130,GST tax payment,Wallet,Wallet
+TXNP501131,Fuel refill HP petrol,Fuel,Fuel
+TXNP501132,Restaurant dinner,Salary,Salary
+TXNP501133,Insurance premium debit,Salary,Salary
+TXNP501134,GST tax payment,Wallet,Wallet
+TXNP501135,Refund from Amazon,EMI,EMI
+TXNP501136,GST tax payment,Subscription,Subscription
+TXNP501137,Flight booking MakeMyTrip,Food,Food
+TXNP501138,Insurance premium debit,Grocery,Grocery
+TXNP501139,Fuel refill HP petrol,Travel,Travel
+TXNP501140,Gym membership,Shopping,Shopping
+TXNP501141,Parking fee,Fuel,Fuel
+TXNP501142,Wallet top-up,Insurance,Insurance
+TXNP501143,Wallet top-up,Subscription,Subscription
+TXNP501144,Netflix subscription,Tax,Tax
+TXNP501145,Salary credited,Insurance,Insurance
+TXNP501146,Loan EMI debit,Insurance,Insurance
+TXNP501147,Amazon order,Subscription,Subscription
+TXNP501148,Prime Video subscription,Shopping,Shopping
+TXNP501149,Swiggy dinner,Salary,Salary
+TXNP501150,Swiggy dinner,Shopping,Shopping
+TXNP501151,Zomato lunch,Utility,Utility
+TXNP501152,Office stationery,Insurance,Insurance
+TXNP501153,UPI to grocery,Recharge,Recharge
+TXNP501154,Vendor payment,Wallet,Wallet
+TXNP501155,UPI to grocery,Salary,Salary
+TXNP501156,Vendor payment,Travel,Travel
+TXNP501157,Flight booking MakeMyTrip,EMI,EMI
+TXNP501158,Salary credited,Insurance,Insurance
+TXNP501159,Internet broadband bill,Refund,Refund
+TXNP501160,Swiggy dinner,EMI,EMI
+TXNP501161,UPI to grocery,Grocery,Grocery
+TXNP501162,Vendor payment,Grocery,Grocery
+TXNP501163,Insurance premium debit,Business Expense,Business Expense
+TXNP501164,Consulting fee,Subscription,Subscription
+TXNP501165,Office stationery,Recharge,Recharge
+TXNP501166,Mobile recharge,Grocery,Grocery
+TXNP501167,Internet broadband bill,Food,Food
+TXNP501168,Insurance premium debit,Travel,Travel
+TXNP501169,Prime Video subscription,Tax,Tax
+TXNP501170,Electricity bill payment,Grocery,Grocery
+TXNP501171,Electricity bill payment,Salary,Salary
+TXNP501172,Internet broadband bill,Travel,Travel
+TXNP501173,Electricity bill payment,EMI,EMI
+TXNP501174,Consulting fee,Shopping,Shopping
+TXNP501175,Amazon order,Salary,Salary
+TXNP501176,Consulting fee,Refund,Refund
+TXNP501177,Restaurant dinner,Business Expense,Business Expense
+TXNP501178,Vendor payment,Subscription,Subscription
+TXNP501179,Electricity bill payment,Wallet,Wallet
+TXNP501180,Internet broadband bill,Fuel,Fuel
+TXNP501181,GST tax payment,Salary,Salary
+TXNP501182,Netflix subscription,Refund,Refund
+TXNP501183,Prime Video subscription,EMI,EMI
+TXNP501184,Fuel refill HP petrol,Wallet,Wallet
+TXNP501185,Electricity bill payment,Food,Food
+TXNP501186,Gym membership,Shopping,Shopping
+TXNP501187,Swiggy dinner,Grocery,Grocery
+TXNP501188,Wallet top-up,EMI,EMI
+TXNP501189,GST tax payment,Grocery,Grocery
+TXNP501190,GST tax payment,Utility,Utility
+TXNP501191,Loan EMI debit,Parking,Parking
+TXNP501192,Prime Video subscription,Food,Food
+TXNP501193,Insurance premium debit,Refund,Refund
+TXNP501194,Electricity bill payment,Service Expense,Service Expense
+TXNP501195,Restaurant dinner,Parking,Parking
+TXNP501196,Prime Video subscription,Wallet,Wallet
+TXNP501197,Internet broadband bill,Business Expense,Business Expense
+TXNP501198,Insurance premium debit,EMI,EMI
+TXNP501199,GST tax payment,Shopping,Shopping
+TXNP501200,Vendor payment,Food,Food
+TXNP501201,Parking fee,Insurance,Insurance
+TXNP501202,Swiggy dinner,Insurance,Insurance
+TXNP501203,Salary credited,EMI,EMI
+TXNP501204,Zomato lunch,Grocery,Grocery
+TXNP501205,Internet broadband bill,Recharge,Recharge
+TXNP501206,Mobile recharge,Grocery,Grocery
+TXNP501207,Salary credited,Wallet,Wallet
+TXNP501208,Netflix subscription,Insurance,Insurance
+TXNP501209,Zomato lunch,Travel,Travel
+TXNP501210,Salary credited,Travel,Travel
+TXNP501211,Salary credited,Service Expense,Service Expense
+TXNP501212,Refund from Amazon,Fuel,Fuel
+TXNP501213,Insurance premium debit,Travel,Travel
+TXNP501214,Swiggy dinner,Recharge,Recharge
+TXNP501215,Loan EMI debit,Utility,Utility
+TXNP501216,Wallet top-up,Salary,Salary
+TXNP501217,Refund from Amazon,Shopping,Shopping
+TXNP501218,Internet broadband bill,Food,Food
+TXNP501219,Gym membership,Recharge,Recharge
+TXNP501220,Insurance premium debit,Business Expense,Business Expense
+TXNP501221,Consulting fee,Utility,Utility
+TXNP501222,GST tax payment,Grocery,Grocery
+TXNP501223,Prime Video subscription,Subscription,Subscription
+TXNP501224,Gym membership,Grocery,Grocery
+TXNP501225,Fuel refill HP petrol,Fuel,Fuel
+TXNP501226,Internet broadband bill,Wallet,Wallet
+TXNP501227,Flight booking MakeMyTrip,Refund,Refund
+TXNP501228,Parking fee,Salary,Salary
+TXNP501229,Internet broadband bill,Salary,Salary
+TXNP501230,Loan EMI debit,Grocery,Grocery
+TXNP501231,Fuel refill HP petrol,Wallet,Wallet
+TXNP501232,Loan EMI debit,Refund,Refund
+TXNP501233,Fuel refill HP petrol,Shopping,Shopping
+TXNP501234,Mobile recharge,Recharge,Recharge
+TXNP501235,Restaurant dinner,Business Expense,Business Expense
+TXNP501236,Amazon order,Salary,Salary
+TXNP501237,Salary credited,Fuel,Fuel
+TXNP501238,Consulting fee,Insurance,Insurance
+TXNP501239,Netflix subscription,Shopping,Shopping
+TXNP501240,UPI to grocery,Shopping,Shopping
+TXNP501241,Loan EMI debit,Recharge,Recharge
+TXNP501242,Consulting fee,Subscription,Subscription
+TXNP501243,Flight booking MakeMyTrip,Business Expense,Business Expense
+TXNP501244,Electricity bill payment,Wallet,Wallet
+TXNP501245,Insurance premium debit,Travel,Travel
+TXNP501246,Insurance premium debit,EMI,EMI
+TXNP501247,Refund from Amazon,Recharge,Recharge
+TXNP501248,Gym membership,Food,Food
+TXNP501249,Fuel refill HP petrol,Utility,Utility
+TXNP501250,Fuel refill HP petrol,Travel,Travel
+TXNP501251,Mobile recharge,Refund,Refund
+TXNP501252,Restaurant dinner,EMI,EMI
+TXNP501253,Swiggy dinner,Subscription,Subscription
+TXNP501254,Wallet top-up,Salary,Salary
+TXNP501255,Refund from Amazon,EMI,EMI
+TXNP501256,Fuel refill HP petrol,Salary,Salary
+TXNP501257,Flight booking MakeMyTrip,Travel,Travel
+TXNP501258,Salary credited,Travel,Travel
+TXNP501259,Loan EMI debit,EMI,EMI
+TXNP501260,GST tax payment,Insurance,Insurance
+TXNP501261,Amazon order,Food,Food
+TXNP501262,Zomato lunch,Travel,Travel
+TXNP501263,Salary credited,Food,Food
+TXNP501264,GST tax payment,Food,Food
+TXNP501265,Fuel refill HP petrol,Subscription,Subscription
+TXNP501266,Zomato lunch,Shopping,Shopping
+TXNP501267,UPI to grocery,Grocery,Grocery
+TXNP501268,GST tax payment,Wallet,Wallet
+TXNP501269,GST tax payment,Parking,Parking
+TXNP501270,Zomato lunch,EMI,EMI
+TXNP501271,Fuel refill HP petrol,Salary,Salary
+TXNP501272,Fuel refill HP petrol,EMI,EMI
+TXNP501273,Zomato lunch,Fuel,Fuel
+TXNP501274,Internet broadband bill,Utility,Utility
+TXNP501275,Amazon order,Insurance,Insurance
+TXNP501276,Electricity bill payment,Parking,Parking
+TXNP501277,Restaurant dinner,Food,Food
+TXNP501278,Vendor payment,EMI,EMI
+TXNP501279,Internet broadband bill,Food,Food
+TXNP501280,Vendor payment,Grocery,Grocery
+TXNP501281,Amazon order,Service Expense,Service Expense
+TXNP501282,Restaurant dinner,Food,Food
+TXNP501283,Fuel refill HP petrol,Food,Food
+TXNP501284,Amazon order,Insurance,Insurance
+TXNP501285,Office stationery,Food,Food
+TXNP501286,Netflix subscription,Recharge,Recharge
+TXNP501287,Flight booking MakeMyTrip,Salary,Salary
+TXNP501288,Insurance premium debit,Business Expense,Business Expense
+TXNP501289,Swiggy dinner,Subscription,Subscription
+TXNP501290,Fuel refill HP petrol,Recharge,Recharge
+TXNP501291,Fuel refill HP petrol,Subscription,Subscription
+TXNP501292,Electricity bill payment,Utility,Utility
+TXNP501293,Vendor payment,Fuel,Fuel
+TXNP501294,Flight booking MakeMyTrip,Wallet,Wallet
+TXNP501295,Office stationery,Wallet,Wallet
+TXNP501296,Wallet top-up,Food,Food
+TXNP501297,Vendor payment,EMI,EMI
+TXNP501298,Amazon order,Grocery,Grocery
+TXNP501299,GST tax payment,Food,Food
+TXNP501300,Salary credited,Utility,Utility
+TXNP501301,Salary credited,Travel,Travel
+TXNP501302,Zomato lunch,Utility,Utility
+TXNP501303,Swiggy dinner,Salary,Salary
+TXNP501304,Zomato lunch,Refund,Refund
+TXNP501305,Amazon order,Wallet,Wallet
+TXNP501306,Flight booking MakeMyTrip,Service Expense,Service Expense
+TXNP501307,Flight booking MakeMyTrip,Wallet,Wallet
+TXNP501308,Mobile recharge,EMI,EMI
+TXNP501309,Electricity bill payment,Tax,Tax
+TXNP501310,Swiggy dinner,Refund,Refund
+TXNP501311,Prime Video subscription,Salary,Salary
+TXNP501312,Mobile recharge,Wallet,Wallet
+TXNP501313,Refund from Amazon,Subscription,Subscription
+TXNP501314,Parking fee,Food,Food
+TXNP501315,Electricity bill payment,Shopping,Shopping
+TXNP501316,Prime Video subscription,Grocery,Grocery
+TXNP501317,Prime Video subscription,Utility,Utility
+TXNP501318,Zomato lunch,Food,Food
+TXNP501319,Office stationery,Wallet,Wallet
+TXNP501320,Salary credited,Salary,Salary
+TXNP501321,Wallet top-up,Subscription,Subscription
+TXNP501322,Prime Video subscription,Travel,Travel
+TXNP501323,Insurance premium debit,Wallet,Wallet
+TXNP501324,UPI to grocery,Business Expense,Business Expense
+TXNP501325,Loan EMI debit,Salary,Salary
+TXNP501326,Refund from Amazon,Fuel,Fuel
+TXNP501327,Restaurant dinner,Recharge,Recharge
+TXNP501328,Internet broadband bill,Business Expense,Business Expense
+TXNP501329,Salary credited,Tax,Tax
+TXNP501330,Loan EMI debit,Shopping,Shopping
+TXNP501331,Vendor payment,Subscription,Subscription
+TXNP501332,Loan EMI debit,Grocery,Grocery
+TXNP501333,Loan EMI debit,Service Expense,Service Expense
+TXNP501334,Parking fee,Parking,Parking
+TXNP501335,Office stationery,Utility,Utility
+TXNP501336,UPI to grocery,Travel,Travel
+TXNP501337,UPI to grocery,Salary,Salary
+TXNP501338,Netflix subscription,Food,Food
+TXNP501339,Fuel refill HP petrol,Fuel,Fuel
+TXNP501340,Gym membership,Wallet,Wallet
+TXNP501341,Mobile recharge,Subscription,Subscription
+TXNP501342,Flight booking MakeMyTrip,Insurance,Insurance
+TXNP501343,Netflix subscription,Fuel,Fuel
+TXNP501344,Swiggy dinner,Business Expense,Business Expense
+TXNP501345,Restaurant dinner,Subscription,Subscription
+TXNP501346,Swiggy dinner,Salary,Salary
+TXNP501347,Restaurant dinner,Parking,Parking
+TXNP501348,Restaurant dinner,Salary,Salary
+TXNP501349,Vendor payment,Business Expense,Business Expense
+TXNP501350,Loan EMI debit,Shopping,Shopping
+TXNP501351,Gym membership,Grocery,Grocery
+TXNP501352,Restaurant dinner,Food,Food
+TXNP501353,Flight booking MakeMyTrip,Recharge,Recharge
+TXNP501354,Amazon order,EMI,EMI
+TXNP501355,Restaurant dinner,Salary,Salary
+TXNP501356,Salary credited,Wallet,Wallet
+TXNP501357,Office stationery,Subscription,Subscription
+TXNP501358,Fuel refill HP petrol,Food,Food
+TXNP501359,Mobile recharge,Utility,Utility
+TXNP501360,Zomato lunch,Food,Food
+TXNP501361,Prime Video subscription,Salary,Salary
+TXNP501362,Flight booking MakeMyTrip,Business Expense,Business Expense
+TXNP501363,Wallet top-up,Business Expense,Business Expense
+TXNP501364,Netflix subscription,Wallet,Wallet
+TXNP501365,Insurance premium debit,EMI,EMI
+TXNP501366,Salary credited,Tax,Tax
+TXNP501367,Salary credited,Refund,Refund
+TXNP501368,Insurance premium debit,Business Expense,Business Expense
+TXNP501369,Salary credited,Recharge,Recharge
+TXNP501370,Office stationery,Tax,Tax
+TXNP501371,UPI to grocery,Wallet,Wallet
+TXNP501372,Loan EMI debit,Food,Food
+TXNP501373,Swiggy dinner,Subscription,Subscription
+TXNP501374,UPI to grocery,Refund,Refund
+TXNP501375,Consulting fee,Wallet,Wallet
+TXNP501376,Zomato lunch,Shopping,Shopping
+TXNP501377,Netflix subscription,Recharge,Recharge
+TXNP501378,Vendor payment,Wallet,Wallet
+TXNP501379,Restaurant dinner,Utility,Utility
+TXNP501380,Restaurant dinner,Salary,Salary
+TXNP501381,Amazon order,Wallet,Wallet
+TXNP501382,Salary credited,Travel,Travel
+TXNP501383,Flight booking MakeMyTrip,Fuel,Fuel
+TXNP501384,Refund from Amazon,Shopping,Shopping
+TXNP501385,Electricity bill payment,Insurance,Insurance
+TXNP501386,Swiggy dinner,Salary,Salary
+TXNP501387,Electricity bill payment,Food,Food
+TXNP501388,Amazon order,Utility,Utility
+TXNP501389,Office stationery,Utility,Utility
+TXNP501390,GST tax payment,Utility,Utility
+TXNP501391,Swiggy dinner,Food,Food
+TXNP501392,Consulting fee,Salary,Salary
+TXNP501393,GST tax payment,Food,Food
+TXNP501394,Loan EMI debit,Fuel,Fuel
+TXNP501395,Netflix subscription,Fuel,Fuel
+TXNP501396,Prime Video subscription,Food,Food
+TXNP501397,Salary credited,Business Expense,Business Expense
+TXNP501398,Mobile recharge,Grocery,Grocery
+TXNP501399,Office stationery,Fuel,Fuel
+TXNP501400,Office stationery,Salary,Salary
+TXNP501401,Wallet top-up,Salary,Salary
+TXNP501402,Loan EMI debit,Wallet,Wallet
+TXNP501403,Insurance premium debit,Wallet,Wallet
+TXNP501404,Gym membership,Service Expense,Service Expense
+TXNP501405,Consulting fee,Refund,Refund
+TXNP501406,Flight booking MakeMyTrip,Subscription,Subscription
+TXNP501407,Netflix subscription,Salary,Salary
+TXNP501408,Gym membership,Grocery,Grocery
+TXNP501409,Parking fee,Salary,Salary
+TXNP501410,Amazon order,Utility,Utility
+TXNP501411,Office stationery,Refund,Refund
+TXNP501412,Office stationery,Recharge,Recharge
+TXNP501413,Internet broadband bill,Salary,Salary
+TXNP501414,Fuel refill HP petrol,Subscription,Subscription
+TXNP501415,Loan EMI debit,Business Expense,Business Expense
+TXNP501416,Refund from Amazon,Shopping,Shopping
+TXNP501417,Vendor payment,Salary,Salary
+TXNP501418,Loan EMI debit,Utility,Utility
+TXNP501419,Loan EMI debit,Grocery,Grocery
+TXNP501420,Refund from Amazon,Grocery,Grocery
+TXNP501421,Gym membership,Fuel,Fuel
+TXNP501422,Electricity bill payment,Shopping,Shopping
+TXNP501423,Amazon order,EMI,EMI
+TXNP501424,Parking fee,Parking,Parking
+TXNP501425,Zomato lunch,Insurance,Insurance
+TXNP501426,Mobile recharge,Subscription,Subscription
+TXNP501427,Netflix subscription,Grocery,Grocery
+TXNP501428,Amazon order,Food,Food
+TXNP501429,Refund from Amazon,Refund,Refund
+TXNP501430,Refund from Amazon,Salary,Salary
+TXNP501431,Wallet top-up,Salary,Salary
+TXNP501432,Restaurant dinner,Insurance,Insurance
+TXNP501433,Gym membership,Recharge,Recharge
+TXNP501434,Mobile recharge,Food,Food
+TXNP501435,Insurance premium debit,Fuel,Fuel
+TXNP501436,Parking fee,Food,Food
+TXNP501437,GST tax payment,Salary,Salary
+TXNP501438,Gym membership,EMI,EMI
+TXNP501439,Internet broadband bill,Utility,Utility
+TXNP501440,Vendor payment,Grocery,Grocery
+TXNP501441,Vendor payment,Subscription,Subscription
+TXNP501442,Internet broadband bill,Wallet,Wallet
+TXNP501443,Wallet top-up,Travel,Travel
+TXNP501444,Loan EMI debit,EMI,EMI
+TXNP501445,Insurance premium debit,Food,Food
+TXNP501446,Swiggy dinner,Shopping,Shopping
+TXNP501447,Flight booking MakeMyTrip,Grocery,Grocery
+TXNP501448,Gym membership,Utility,Utility
+TXNP501449,Loan EMI debit,Tax,Tax
+TXNP501450,Internet broadband bill,Insurance,Insurance
+TXNP501451,UPI to grocery,Refund,Refund
+TXNP501452,Zomato lunch,Fuel,Fuel
+TXNP501453,Prime Video subscription,Subscription,Subscription
+TXNP501454,UPI to grocery,Salary,Salary
+TXNP501455,Fuel refill HP petrol,Shopping,Shopping
+TXNP501456,Restaurant dinner,EMI,EMI
+TXNP501457,Salary credited,Tax,Tax
+TXNP501458,Loan EMI debit,Parking,Parking
+TXNP501459,Prime Video subscription,Shopping,Shopping
+TXNP501460,UPI to grocery,Service Expense,Service Expense
+TXNP501461,Refund from Amazon,Business Expense,Business Expense
+TXNP501462,Restaurant dinner,Shopping,Shopping
+TXNP501463,Zomato lunch,Food,Food
+TXNP501464,Insurance premium debit,Food,Food
+TXNP501465,Salary credited,Parking,Parking
+TXNP501466,Internet broadband bill,Utility,Utility
+TXNP501467,Office stationery,Tax,Tax
+TXNP501468,Office stationery,EMI,EMI
+TXNP501469,Flight booking MakeMyTrip,Travel,Travel
+TXNP501470,Fuel refill HP petrol,Food,Food
+TXNP501471,Prime Video subscription,Wallet,Wallet
+TXNP501472,Internet broadband bill,Business Expense,Business Expense
+TXNP501473,Zomato lunch,Tax,Tax
+TXNP501474,GST tax payment,Service Expense,Service Expense
+TXNP501475,Fuel refill HP petrol,Salary,Salary
+TXNP501476,GST tax payment,Insurance,Insurance
+TXNP501477,Netflix subscription,Grocery,Grocery
+TXNP501478,Wallet top-up,Food,Food
+TXNP501479,Consulting fee,Refund,Refund
+TXNP501480,GST tax payment,Food,Food
+TXNP501481,Amazon order,Fuel,Fuel
+TXNP501482,Wallet top-up,Parking,Parking
+TXNP501483,Prime Video subscription,Grocery,Grocery
+TXNP501484,Vendor payment,Insurance,Insurance
+TXNP501485,Insurance premium debit,Food,Food
+TXNP501486,Insurance premium debit,Grocery,Grocery
+TXNP501487,Restaurant dinner,Utility,Utility
+TXNP501488,Wallet top-up,Subscription,Subscription
+TXNP501489,Insurance premium debit,Service Expense,Service Expense
+TXNP501490,Office stationery,Subscription,Subscription
+TXNP501491,Consulting fee,Parking,Parking
+TXNP501492,GST tax payment,Utility,Utility
+TXNP501493,Gym membership,EMI,EMI
+TXNP501494,Amazon order,Insurance,Insurance
+TXNP501495,Gym membership,Fuel,Fuel
+TXNP501496,Insurance premium debit,Food,Food
+TXNP501497,Vendor payment,EMI,EMI
+TXNP501498,Wallet top-up,Wallet,Wallet
+TXNP501499,Electricity bill payment,Wallet,Wallet
