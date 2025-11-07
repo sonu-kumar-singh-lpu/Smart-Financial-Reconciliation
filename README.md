@@ -125,6 +125,13 @@ Smart-Financial-Reconciliation/
   <img src="./demo.gif" width="900">
 </p>
 
+## 🧩 How It Works
+
+<p align="center">
+  <img src="./how_it_works.png" width="700">
+</p>
+
+
 ---
 
 ## 🛠️ Installation
@@ -156,8 +163,6 @@ Your full analytics dashboard will open inside your browser.
 
 ---
 
-## ✅ Output Samples
-(Add screenshots here)
 
 ---
 
