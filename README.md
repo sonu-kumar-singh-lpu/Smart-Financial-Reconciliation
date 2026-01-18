@@ -163,6 +163,80 @@ Your full analytics dashboard will open inside your browser.
 
 ---
 
+## 🐳 Docker Setup
+
+### Build and run with Docker
+```bash
+# Build the image
+docker build -t financial-reconciliation:latest .
+
+# Run the container
+docker run -p 8501:8501 financial-reconciliation:latest
+```
+
+### Using Docker Compose (Recommended)
+```bash
+# Start the application
+docker-compose up -d
+
+# Stop the application
+docker-compose down
+```
+
+The application will be available at `http://localhost:8501`
+
+---
+
+## 🔄 CI/CD Pipeline
+
+This project includes a comprehensive GitHub Actions workflow that:
+
+### ✅ Automated Testing
+- Tests Python 3.9, 3.10, and 3.11 compatibility
+- Validates all modules can be imported
+- Checks data file integrity
+- Runs code quality checks (flake8, black, isort)
+
+### ✅ Docker Integration
+- Builds Docker image on main branch
+- Tests container startup and health
+- Validates Streamlit application runs correctly
+
+### ✅ Security Scanning
+- Runs Trivy vulnerability scanner
+- Uploads security results to GitHub Security tab
+
+### Workflow Triggers
+- **Push** to `main` or `develop` branches
+- **Pull requests** to `main` branch
+
+---
+
+## 🛠️ Development
+
+### Install development dependencies
+```bash
+pip install -r requirements-dev.txt
+```
+
+### Run tests
+```bash
+pytest tests/ -v
+```
+
+### Code formatting
+```bash
+# Format code
+make format
+
+# Check formatting
+make lint
+```
+
+### Available Make commands
+```bash
+make help  # Show all available commands
+```
 
 ---
 

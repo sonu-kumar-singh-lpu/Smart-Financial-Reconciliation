@@ -5,3 +5,10 @@ streamlit
 plotly
 reportlab
 kaleido
+
+# Development dependencies (optional, for CI/CD)
+# pytest
+# pytest-cov
+# flake8
+# black
+# isort
