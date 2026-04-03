@@ -1,19 +1,89 @@
-version: '3.8'
+version: "3.9"
 
 services:
-  financial-reconciliation:
-    build: .
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: financial-reconciliation
+    image: financial-reconciliation:latest
     ports:
       - "8501:8501"
     volumes:
-      - ./data:/app/data:ro  # Mount data as read-only
+      - ./data:/app/data:ro
     environment:
       - STREAMLIT_SERVER_PORT=8501
-      - STREAMLIT_SERVER_ADDRESS=0.0.0.0
-    restart: unless-stopped
+      - STREAMLIT_SERVER_HEADLESS=true
+      - STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
       interval: 30s
       timeout: 10s
       retries: 3
-      start_period: 40s
+      start_period: 30s
+    restart: unless-stopped
+    networks:
+      - financial-net
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml
+    networks:
+      - financial-net
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin123
+      - GF_SECURITY_ADMIN_USER=admin
+    volumes:
+      - grafana-storage:/var/lib/grafana
+    networks:
+      - financial-net
+    restart: unless-stopped
+    depends_on:
+      - prometheus
+
+  node-exporter:
+    image: prom/node-exporter:latest
+    container_name: node-exporter
+    ports:
+      - "9100:9100"
+    volumes:
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+    command:
+      - '--path.procfs=/host/proc'
+      - '--path.sysfs=/host/sys'
+    networks:
+      - financial-net
+    restart: unless-stopped
+
+  cadvisor:
+    image: gcr.io/cadvisor/cadvisor:latest
+    container_name: cadvisor
+    ports:
+      - "8082:8080"
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:ro
+      - /sys:/sys:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+    networks:
+      - financial-net
+    restart: unless-stopped
+
+networks:
+  financial-net:
+    name: financial-net
+
+volumes:
+  grafana-storage:

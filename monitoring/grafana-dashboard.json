@@ -1,0 +1,98 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "Smart Financial Reconciliation",
+    "tags": ["financial", "reconciliation"],
+    "timezone": "browser",
+    "schemaVersion": 16,
+    "version": 1,
+    "panels": [
+      {
+        "id": 1,
+        "title": "App Health Status",
+        "type": "stat",
+        "gridPos": { "x": 0, "y": 0, "w": 6, "h": 4 },
+        "targets": [
+          {
+            "expr": "up{job='financial-reconciliation'}",
+            "legendFormat": "App Status"
+          }
+        ],
+        "options": {
+          "colorMode": "background",
+          "graphMode": "none",
+          "justifyMode": "center"
+        },
+        "fieldConfig": {
+          "defaults": {
+            "mappings": [
+              { "type": "value", "value": "1", "text": "UP" },
+              { "type": "value", "value": "0", "text": "DOWN" }
+            ],
+            "thresholds": {
+              "steps": [
+                { "color": "red", "value": 0 },
+                { "color": "green", "value": 1 }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "id": 2,
+        "title": "CPU Usage",
+        "type": "graph",
+        "gridPos": { "x": 6, "y": 0, "w": 9, "h": 4 },
+        "targets": [
+          {
+            "expr": "rate(process_cpu_seconds_total[1m]) * 100",
+            "legendFormat": "CPU %"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Memory Usage",
+        "type": "graph",
+        "gridPos": { "x": 15, "y": 0, "w": 9, "h": 4 },
+        "targets": [
+          {
+            "expr": "process_resident_memory_bytes / 1024 / 1024",
+            "legendFormat": "Memory (MB)"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "App Uptime",
+        "type": "stat",
+        "gridPos": { "x": 0, "y": 4, "w": 6, "h": 4 },
+        "targets": [
+          {
+            "expr": "time() - process_start_time_seconds",
+            "legendFormat": "Uptime (seconds)"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "HTTP Requests",
+        "type": "graph",
+        "gridPos": { "x": 6, "y": 4, "w": 18, "h": 4 },
+        "targets": [
+          {
+            "expr": "rate(http_requests_total[5m])",
+            "legendFormat": "Requests/sec"
+          }
+        ]
+      }
+    ],
+    "time": {
+      "from": "now-1h",
+      "to": "now"
+    },
+    "refresh": "30s"
+  },
+  "overwrite": true,
+  "folderId": 0
+}

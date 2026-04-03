@@ -1,42 +1,83 @@
-.PHONY: help install test lint format docker-build docker-run clean
+.PHONY: help build run stop clean test lint deploy delete status logs setup
 
-help:
-	@echo "Available commands:"
-	@echo "  install     - Install dependencies"
-	@echo "  test        - Run tests"
-	@echo "  lint        - Run linting checks"
-	@echo "  format      - Format code"
-	@echo "  docker-build - Build Docker image"
-	@echo "  docker-run  - Run Docker container"
-	@echo "  clean       - Clean up generated files"
+IMAGE_NAME = financial-reconciliation
+TAG        = latest
+NAMESPACE  = financial-app
 
-install:
-	pip install -r requirements-dev.txt
+help:  ## Show all commands
+	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | \
+		awk 'BEGIN {FS = ":.*?## "}; {printf "  \033[36m%-18s\033[0m %s\n", $$1, $$2}'
 
-test:
-	pytest tests/ -v
+# ── Docker ────────────────────────────────────────────
+build:  ## Build Docker image
+	docker build -t $(IMAGE_NAME):$(TAG) .
 
-lint:
-	flake8 src/
-	black --check src/
-	isort --check-only src/
+run:  ## Run app with Docker Compose
+	docker compose up -d
 
-format:
-	black src/
-	isort src/
+stop:  ## Stop Docker Compose
+	docker compose down
 
-docker-build:
-	docker build -t financial-reconciliation:latest .
+logs:  ## View container logs
+	docker compose logs -f app
 
-docker-run:
-	docker-compose up -d
+clean:  ## Remove containers and images
+	docker compose down --rmi all --volumes --remove-orphans
 
-docker-stop:
-	docker-compose down
+# ── Code Quality ──────────────────────────────────────
+lint:  ## Run linting
+	flake8 src/ tests/ --max-line-length=100
+	black --check src/ tests/
+	isort --check-only src/ tests/
 
-clean:
-	find . -type f -name "*.pyc" -delete
-	find . -type d -name "__pycache__" -delete
-	rm -rf .pytest_cache/
-	rm -rf htmlcov/
-	rm -rf .coverage
+format:  ## Auto format code
+	black src/ tests/
+	isort src/ tests/
+
+test:  ## Run tests
+	pytest tests/ -v --cov=src --cov-report=term-missing
+
+# ── Minikube ──────────────────────────────────────────
+minikube-start:  ## Start Minikube
+	minikube start --driver=docker --cpus=2 --memory=4096
+
+minikube-load:  ## Load image into Minikube
+	minikube image load $(IMAGE_NAME):$(TAG)
+
+minikube-enable-ingress:  ## Enable Nginx Ingress
+	minikube addons enable ingress
+
+# ── Kubernetes ────────────────────────────────────────
+deploy:  ## Deploy to Kubernetes
+	kubectl apply -f k8s/namespace.yaml
+	kubectl apply -f k8s/configmap.yaml
+	kubectl apply -f k8s/deployment.yaml
+	kubectl apply -f k8s/service.yaml
+	kubectl apply -f k8s/ingress.yaml
+	kubectl apply -f k8s/hpa.yaml
+	kubectl rollout status deployment/financial-reconciliation -n $(NAMESPACE)
+
+delete:  ## Delete all K8s resources
+	kubectl delete -f k8s/ --ignore-not-found
+
+status:  ## Check pod status
+	kubectl get all -n $(NAMESPACE)
+
+pod-logs:  ## View pod logs
+	kubectl logs -l app=financial-reconciliation -n $(NAMESPACE) --tail=50 -f
+
+# ── Monitoring ────────────────────────────────────────
+monitoring-up:  ## Start Prometheus + Grafana
+	docker compose up -d prometheus grafana
+	@echo "Prometheus → http://localhost:9090"
+	@echo "Grafana    → http://localhost:3000"
+	@echo "Grafana login → admin / admin123"
+
+monitoring-down:  ## Stop monitoring
+	docker compose stop prometheus grafana
+
+# ── Full Setup ────────────────────────────────────────
+setup: minikube-start build minikube-load minikube-enable-ingress deploy  ## Full local setup
+	@echo ""
+	@echo "✅ App is running!"
+	@echo "Access → http://$$(minikube ip):30001"

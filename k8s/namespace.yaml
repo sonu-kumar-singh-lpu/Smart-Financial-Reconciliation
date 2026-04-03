@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: financial-app
+  labels:
+    app: financial-reconciliation
+    environment: local
